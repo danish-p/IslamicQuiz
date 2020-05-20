@@ -6,19 +6,7 @@
         },
         {
             "courseName": "Course 2",
-            "link": "course1.txt"
-        },
-        {
-            "courseName": "Course 3",
-            "link": "course1.txt"
-        },
-        {
-            "courseName": "Course 4",
-            "link": "course1.txt"
-        },
-        {
-            "courseName": "Course 5",
-            "link": "course1.txt"
+            "link": "course2.txt"
         }
     ]
 }
