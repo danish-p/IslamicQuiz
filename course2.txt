@@ -1,5 +1,5 @@
 {
-    "Course 1": [
+    "Course 2": [
         {
             "question": "Neend se bedaar honay ki Dua Kya Hai..??*",
             "optionA": "Alhamdu lillaahil ladhee ahyaanaa ba'da maa amaa-tanaa wa ilayhin nushoor",
