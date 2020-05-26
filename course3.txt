@@ -69,7 +69,8 @@
             "optionB": "Sabit Nahi",
             "optionC": "null",
             "optionD": "null",
-            "answer": "optionB"
+            "answer": "optionB",
+            "feedback": "-"
         },
         {
             "question": "Kya Wuzu Mein Teen se zyada baar dhona Jaiz Hai..??",
@@ -77,7 +78,8 @@
             "optionB": "Jaiz Nahi",
             "optionC": "null",
             "optionD": "null",
-            "answer": "optionB"
+            "answer": "optionB",
+            "feedback": "-"
         },
         {
             "question": "Wazu Ke Baad Kya Dua Padhni Chahiye..?",
