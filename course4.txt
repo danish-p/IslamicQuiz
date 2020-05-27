@@ -1,0 +1,94 @@
+{
+"Course 4": [
+        {
+            "question": "Sone Ke Waqt Apni Dono HatheLiyon ko ikhatta karein, phir ye_________________ padh kar Phoonk marein Phir Apne Chehre, Jism ke saamne se shuru karte huwe Taaqat ke mutabiq Saarey Badan par Pherein, iss Tarah Teen (3) Martaba karein.",
+            "optionA": "Surah Fatiha",
+            "optionB": "Surah Baqara",
+            "optionC": "Ayatul Kursi",
+            "optionD": "3 Quls",
+            "answer": "optionD",
+            "feedback": "Narrated 'Aisha:\r\n\r\nWhenever the Prophet (ﷺ) went to bed every night, he used to cup his hands together and blow over it after reciting Surat Al-Ikhlas, Surat Al-Falaq and Surat An-Nas, and then rub his hands over whatever parts of his body he was able to rub, starting with his head, face and front of his body. He used to do that three times.\r\n\r\nSahih al-Bukhari 5017"
+        },
+        {
+            "question": "Woh Kounse Kalimat Hai jo Shakhs Bistar par Letne se Pehle ise PadhLe, Uske Liye Allah ki Taraf se Ek Muhafiz (Farishta) Mutayyan kar Diya jata hai aur Subah Tak Shaytan uske Qareeb Nahi Aa sakta...??",
+            "optionA": "Surah Fatiha",
+            "optionB": "Surah Ikhlas",
+            "optionC": "Ayatul Kursi",
+            "optionD": "Sayyedul Istighfaar",
+            "answer": "optionC",
+            "feedback": "Saheeh ibn Khuzaimah : 2424 - Sunan Kubra Lin Nasai : 10720 - Saheeh Bukhari Ta'Leeqan : 2311 - Albani Rahimahullah ne isey SAHEEH Qarar diya hai : Saheeh Targheeb (1:392)"
+        },
+        {
+            "question": "Wo Kaunsi ayaat Hain Jo Shakhs Inhe Raat Me Padh Lega To wo uske liye kaafi ho jayengi..??",
+            "optionA": "Surah Mulk ki Pehli 4 Aayatien",
+            "optionB": "Surah Fatiha ki 7 Aayatien",
+            "optionC": "Ayatul Kursi ki Aayat",
+            "optionD": "Surah Baqara ki Aakhiri 2 Aayatien",
+            "answer": "optionD",
+            "feedback": "Saheeh Bukhari : 4008"
+        },
+        {
+            "question": "Jab bistar par Sone ke Liye pahuncho toh Bistar ko Acche se________ Baar Jhaad Lo kyun ke Koi nahi jaanta ke aapse pehle bistar par kaun tha ya kya thaa (Saanp, Bicchu, jinn wagairah Hosakta hai",
+            "optionA": "1 Baar",
+            "optionB": "3 baar",
+            "optionC": "5 Baar",
+            "optionD": "2 Baar",
+            "answer": "optionB",
+            "feedback": "Abu Hurairah (ra) narrated that :\r\n\r\nthe Messenger of Allah (ﷺ) said: “When one of you leaves his bed then returns to it, then let him brush it off with the edge of his Izar three times, for indeed, he does not know what succeeded him upon it after him. When he lies down, let him say: ‘In Your Name, my Lord, I lay my side down, and in Your Name I raise it. And if You take my soul, then have mercy upon it, and if You release it, then protect it with that which You protect Your righteous worshipers (Bismika rabbī waḍa`tu janbī wa bika arfa`uhu, fa’in amsakta nafsī farḥamhā wa in arsaltahā faḥfaẓhā bimā taḥfaẓu bihī `ibādakaṣ-ṣāliḥīn)’ And when he awakens, let him say: All praise is due to Allah, Who healed me in my body, and returned to me my soul, and permitted me to remember Him (Al-ḥamdulillāh alladhī `āfānī fī jasadī wa radda `alayya rūḥī wa adhina lī bidhikrih).’”\r\n\r\nSahih (Darussalam)\r\n\r\nJami` at-Tirmidhi 3401"
+        },
+        {
+            "question": "Sone se Pahle: \"Allahumma bismika Amootu Wa Ahya\" Ye Dua Kaise Padhna Chahiye..??",
+            "optionA": "Apne Baayen (Left) GaaL (Cheek) ke neeche Baayan (Left) Haath rakh Kar Padhni Chahiye",
+            "optionB": "Apne Daaein (Right) GaaL (Cheek) ke neeche Daayan (Right) Haath rakh Kar Padhni Chahiye",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Narrated Hudhaifa:\r\n\r\nWhen the Prophet (ﷺ) went to bed at night, he would put his hand under his cheek and then say, \"Allahumma bismika amutu wa ahya,\" and when he got up, he would say, \"Al-Hamdu lil-lahi al-ladhi ahyana ba'da ma amatana, wa ilaihi an-nushur.\"\r\n\r\nSahih al-Bukhari 6314"
+        },
+        {
+            "question": "Sone Se Pehle Kounse Zikr Ko Tasbeeh-E-Fatima Kaha Jata hai..??",
+            "optionA": "Surah Fatiha",
+            "optionB": "3 Quls",
+            "optionC": "Subhan Allah 33, Alhamdulillah 33, Allahu Akbar 34",
+            "optionD": "Surah Ikhlas",
+            "answer": "optionC",
+            "feedback": "Iss Tasbeeh ko, Tasbeeh-E-Fatima bhi Kaha Jaata hai, Agar koi Shakhs inn Azkaar ko bistar par Soney ke Baad PadhLe tho ye uske Liye Ek Khaadim (GhuLam) Se bhi Behtar hai.\r\n\r\nSaheeh Bukhari :3705 - Saheeh Muslim : Abu Dawood : 5062 2727 Tirmizi : 3408"
+        },
+        {
+            "question": "Woh Kounsi Dua hai Jo Sone Se Pahle Padhne Se Fitrat-E-Islam Par Mout Hogi...??",
+            "optionA": "AlhamdulillahiL Ladhi At'amana Wa Saqaana Wa Kafaana Wa Aawaanaa Fakam Mimman Laa Kaafiya Lahu WaLa Mu'wiya",
+            "optionB": "Allahumma AsLamtu Nafsi iLaik, wa Fawwaztu Amri iLaik, Wa Wajjahtu wajhi iLaik, wa AL ja'atu Zahri iLaik, raghbatan wa Rahbatan iLaik, Laa MaLja'A waLa manjaa minka iLLa iLaik, Aamantu bi kitaabi KaL Lazi Anzalta, Wa bi Nabiyyi kaL Lazi Arsalta",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Namaz ki Tarah Wuzu karLo, phir Daayein karwat (Right side) Let kar Ye Dua padho, aagey Bayan hua hai ke Agar isi HaaLat mein Fauth hogaye tho FitratE Waaqey Hogi islam par Mauth { Saheeh Bukhari 6313,6311,6315 Muslim : 2710)\r\n\r\nNarrated Al-Bara bin `Azib:\r\n\r\nThat the Prophet (ﷺ) advised a man, saying, \"If you intend to lie down (i.e. go to bed), say, 'Allahumma aslamtu nafsi ilaika wa fauwadtu `Amri ilaika, wa wajjahtu wajhi ilaika wa alja'tu zahri ilaika, reghbatan wa rahbatan ilaika. La malja'a wa la manja minka illa ilaika. Amantu bikitabikal-ladhi anzalta; wa nabiyyikalladhi arsalta.' And if you should die then (after reciting this before going to bed) you will die on the religion of Islam\"\r\n\r\nSahih al-Bukhari 6313"
+        },
+        {
+            "question": "Ache Ya Bure Khwaab Aaye Toh Kya Karen...??",
+            "optionA": "Teen Dafa Dayaan (Right Side) Taraf Halka sa Thookna jisme Hawa aur Thode Thook ke Cheetein ho",
+            "optionB": "Teen Dafa Bayein (Left Side) Taraf Halka sa Thookna jisme Hawa aur Thode Thook ke Cheetein ho",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Narrated Abu Qatada:\r\n\r\nThe Prophet (ﷺ) said, \"A good dream is from Allah, and a bad dream is from Satan. So whoever has seen (in a dream) something he dislikes, then he should spit without saliva, thrice on his left and seek refuge with Allah from Satan, for it will not harm him, and Satan cannot appear in my shape.\"\r\n\r\nSahih al-Bukhari 6995"
+        },
+        {
+            "question": "Achanak Bure Khwaab Aaye toh Kya Karen..?? ",
+            "optionA": "Wuzu Karna Chahiye",
+            "optionB": "Allah Ki Panah Talab karna Chahiye (Aoozu billahi minash Shaitaanir Rajeem)",
+            "optionC": "Aaytul Kursi",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Saheeh Muslim : 2262"
+        },
+        {
+            "question": "Raat ko Kutta ya Gadhey ki Aawaazein sune tho kya karein..??",
+            "optionA": "Surah Fatiha 3 Martaba Padhna Chahiye",
+            "optionB": "Aauzoo billahi minash Shaitaanir Rajeem Padhna Chahiye",
+            "optionC": "Surah Mulk Padhna Chahiye",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Shaitan se ALLAH ki panaah Talab karein kyun ke Voh Shaitaan ko Dekhte hain\r\n\r\nNarrated Abu Huraira:\r\n\r\nThe Prophet (ﷺ) said, \"When you hear the crowing of cocks, ask for Allah's Blessings for (their crowing indicates that) they have seen an angel. And when you hear the braying of donkeys, seek Refuge with Allah from Satan for (their braying indicates) that they have seen a Satan.\"\r\n\r\nSahih al-Bukhari 3303"
+        }
+    ]
+}
