@@ -13,7 +13,8 @@
         {
             "featureName": "Bayyan",
             "featureIcon": "bayyan",
-            "featureVisibility": "no"
+            "featureVisibility": "no",
+            "updateLink":"null"
         }
     ]
 }
