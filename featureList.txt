@@ -2,17 +2,17 @@
 "FeatureList": [
         {
             "featureName": "Quiz",
-            "featureIcon": "quiz",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuizIcon.png",
             "featureVisibility": "yes"
         },
         {
             "featureName": "Hadees",
-            "featureIcon": "hadees",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/HadeesIcon.png",
             "featureVisibility": "yes"
         },
         {
             "featureName": "Bayyan",
-            "featureIcon": "bayyan",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/BayyanIcon.png",
             "featureVisibility": "no",
             "updateLink":"null"
         }
