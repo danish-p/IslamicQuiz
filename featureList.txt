@@ -1,0 +1,19 @@
+{
+"FeatureList": [
+        {
+            "featureName": "Quiz",
+            "featureIcon": "quiz",
+            "featureVisibility": "yes"
+        },
+        {
+            "featureName": "Hadees",
+            "featureIcon": "hadees",
+            "featureVisibility": "yes"
+        },
+        {
+            "featureName": "Bayyan",
+            "featureIcon": "bayyan",
+            "featureVisibility": "no"
+        }
+    ]
+}
