@@ -14,7 +14,7 @@
             "featureName": "Bayyan",
             "featureIcon": "bayyan",
             "featureVisibility": "no",
-            "updateLink":"null"
+            "updateLink":"-"
         }
     ]
 }
