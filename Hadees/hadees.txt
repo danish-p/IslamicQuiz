@@ -1,10 +1,10 @@
 {
   "hadeesList": [
         {
-            "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/ironman.jpg"
+            "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees1.jpg"
         },
          {
-            "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
+            "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees1.png"
         }
   ]
 }
