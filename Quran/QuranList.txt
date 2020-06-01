@@ -1,0 +1,124 @@
+{
+"quranList":[
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 1",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 2",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 3",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 4",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 5",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 6",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+},
+{
+"name":"Para 7",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+}
+]
+}
