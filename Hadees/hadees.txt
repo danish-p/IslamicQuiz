@@ -4,7 +4,7 @@
             "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees5.jpg"
         },
         {
-            "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees4.png"
+            "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees4.jpg"
         },
         {
             "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees3.jpg"
