@@ -23,6 +23,10 @@
         {
             "courseName": "Course 6",
             "link": "course6.txt"
+        },
+        {
+            "courseName": "Course 7",
+            "link": "course7.txt"
         }
     ]
 }
