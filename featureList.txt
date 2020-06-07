@@ -12,7 +12,7 @@
         },
         {
             "featureName": "Quran",
-            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/BayyanIcon.png",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuranIcon.png",
             "featureVisibility": "yes",
             "updateLink":"null"
         }
