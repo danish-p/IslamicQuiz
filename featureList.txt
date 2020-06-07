@@ -11,9 +11,9 @@
             "featureVisibility": "yes"
         },
         {
-            "featureName": "Bayyan",
+            "featureName": "Quran",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/BayyanIcon.png",
-            "featureVisibility": "no",
+            "featureVisibility": "yes",
             "updateLink":"null"
         }
     ]
