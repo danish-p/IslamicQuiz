@@ -73,7 +73,7 @@
             "feedback": "Kufriya alfaz: Allah ko bura bhala kahna, Islam ko bura bhala kahna, farishton ko bura bhala kahna, nabi ko bura bhala kahna, Allah ka mazak udana."
         },
         {
-            "question": "Niche Diye gaye sawalaton me kaun sa sawal Qabr me nahi kiya jayega..??",
+            "question": "Niche Diye gaye sawalaton me kaun sa sawal Qabr me kiya jayega..??",
             "optionA": "Tumhara Rabb Koun hai",
             "optionB": "Tumhara Deen kya hai",
             "optionC": "Tumhara Nabi Koun hai",
