@@ -2,123 +2,153 @@
 "quranList":[
 {
 "name":"Para 1",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%201.mp3"
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%201.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 2",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%202.mp3"
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%202.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 3",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%203.mp3"
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%203.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 4",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 5",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%205.mp3"
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%205.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 6",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%206.mp3"
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%206.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 7",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%207.mp3"
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%207.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 8",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%208.mp3"
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%208.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 9",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%209.mp3"
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%209.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 10",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%2010.mp3"
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%2010.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 1",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 11",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 1",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 12",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 1",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 13",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 1",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 14",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 1",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 15",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 1",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 16",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 1",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 17",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 1",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 18",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 1",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 19",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 1",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 20",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 1",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 21",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 1",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 22",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 1",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 23",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 1",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 24",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 2",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 25",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 3",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 26",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 4",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 27",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 5",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 28",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 6",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 29",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"name":"Para 7",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3"
+"name":"Para 30",
+"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 }
 ]
 }
