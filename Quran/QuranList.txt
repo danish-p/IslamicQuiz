@@ -2,7 +2,7 @@
 "quranList":[
 {
 "name":"Para 1 : Alif-laam-meem (الم)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%201.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%201.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
