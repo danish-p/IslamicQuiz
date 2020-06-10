@@ -14,7 +14,7 @@
             "featureName": "Quran",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuranIcon.png",
             "featureVisibility": "yes",
-            "updateLink":"-"
+            "updatedVersion":"5"
         }
     ]
 }
