@@ -11,12 +11,6 @@
         },
         {
             "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees3.jpg"
-        },
-        {
-            "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees2.png"
-        },
-         {
-            "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees1.jpg"
         }
   ]
 }
