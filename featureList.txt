@@ -17,12 +17,6 @@
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuranIcon.png",
             "featureVisibility": "yes",
             "updatedVersion":"5"
-        }, 
-        {
-            "featureName": "Bayyan",
-            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/BayyanIcon.png",
-            "featureVisibility": "no",
-            "updatedVersion":"5"
         }
     ]
 }
