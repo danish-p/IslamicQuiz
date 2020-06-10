@@ -3,17 +3,25 @@
         {
             "featureName": "Quiz",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuizIcon.png",
-            "featureVisibility": "yes"
+            "featureVisibility": "yes",
+            "updatedVersion":"4"
         },
         {
             "featureName": "Hadees",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/HadeesIcon.png",
-            "featureVisibility": "yes"
+            "featureVisibility": "yes",
+            "updatedVersion":"4"
         },
         {
             "featureName": "Quran",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuranIcon.png",
             "featureVisibility": "yes",
+            "updatedVersion":"5"
+        }, 
+        {
+            "featureName": "Bayyan",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/BayyanIcon.png",
+            "featureVisibility": "no",
             "updatedVersion":"5"
         }
     ]
