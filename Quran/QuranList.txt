@@ -7,147 +7,147 @@
 },
 {
 "name":"Para 2 : Sayaqool (سَيَقُولُ)",
-"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%201.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%202.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 3 : Tilka’r-Rusulu (تِلْكَ الرُّسُلُ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%203.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%203.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 4 : Lan Tana Loo (لَنْ تَنَالُوا)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%204.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 5 :  Wal Mohsanat (وَالْمُحْصَنَاتُ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%205.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%205.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 6 : La Yuhibbullah (لَا يُحِبُّ اللَّهُ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%206.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%206.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 7 : Wa Iza Samiu (وَإِذَا سَمِعُوا)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%207.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%207.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 8 : Wa Lau Annana (وَلَوْ أَنَّنَا)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%208.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%208.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 9 : Qalal Malao (قَالَ الْمَلَأُ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%209.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%209.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 10 : Wa A'lamu (وَاعْلَمُوا)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%2010.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2010.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 11 : Yatazeroon (يَعْتَذِرُونَ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2011.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 12 : Wa Mamin Da'abat (وَمَا مِنْ دَابَّةٍ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2012.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 13 : Wa Ma Ubrioo (وَمَا أُبَرِّئُ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2013.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 14 : Rubama (رُبَمَا)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2014.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 15 : Subhanallazi (سُبْحَانَ الَّذِي)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2015.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 16 : Qal Alam (قَالَ أَلَمْ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2016.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 17 : Aqtarabo (اقْتَرَبَ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2017.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 18 : Qadd Aflaha (قَدْ أَفْلَحَ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2018.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 19 : Wa Qalallazina (وَقَالَ الَّذِينَ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2019.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 20 : A'man Khalaq (أَمَّنْ خَلَقَ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2020.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 21 : Utlu Ma Oohiyaa (اتْلُ مَا أُوحِيَ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2021.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 22 : Wa Manyaqnut (وَمَنْ يَقْنُتْ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2022.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 23 : Wa Mali (وَمَا لِيَ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2023.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 24 : Faman Azlam (فَمَنْ أَظْلَمُ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2024.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 25 : Elahe Yuruddo (إِلَيْهِ يُرَدُّ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2025.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 26 : Ha'a Meem (حم)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2026.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 27 : Qala Fama Khatbukum (قَالَ فَمَا خَطْبُكُمْ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2027.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 28 : Qadd Sami Allah (قَدْ سَمِعَ اللَّهُ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2028.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 29 : Tabarakallazi (تَبَارَكَ الَّذِي)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2029.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "name":"Para 30 : Amma Yatasa'aloon (عَمَّ يَتَسَاءَلُونَ)",
-"link":"https://www.nooresunnat.com/Audio/Complete%20Quran/Audio%20Quran%20Taqi%20Usmani/Para%20Wise/Para%204.mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2030.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 }
 ]
