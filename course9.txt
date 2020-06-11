@@ -1,0 +1,94 @@
+{
+"Course 9": [
+        {
+            "question": "Woh kounsi Dua hai jo Subah 100 Martaba Padhnese Usko 10 ghulam azad karne ka sawab mile ga, us ke liye 100 naikian likhi jayen gi, 100 khataien mitayi jayen gi, aur poora din shaytan se us ki hifazat hogi.",
+            "optionA": "Subhanallaahi wa bihamdihi, ‘adada khalqihi, wa ridhaa nafshihi, wa zinata ‘arshihi, wa midaada kalimaatihi",
+            "optionB": "Laa ilaaha illallaahu wahdahu laa shareeka lahu, lahul mulku wa lahul hamdu, wa huwa 'alaa kulli shay-in qadeer",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Narrated Abu Huraira:\r\n\r\nAllah's Messenger (ﷺ) said, \"If one says one-hundred times in one day: \"None has the right to be worshipped but Allah, the Alone Who has no partners, to Him belongs Dominion and to Him belong all the Praises, and He has power over all things (i.e. Omnipotent)\", one will get the reward of manumitting ten slaves, and one-hundred good deeds will be written in his account, and one-hundred bad deeds will be wiped off or erased from his account, and on that day he will be protected from the morning till evening from Satan, and nobody will be superior to him except one who has done more than that which he has done.\"\r\n\r\nSahih al-Bukhari 3293\r\n"
+        },
+        {
+            "question": "Woh Kounsi Dua hai Jo shaam ko teen martaba Padhnese, us raat use koi zahrili cheez nuqsaan nahi pahuncha sake gi. ",
+            "optionA": "A’oodhu bi kalimaatil laahit taammaati min sharri maa khalaq",
+            "optionB": "Allaahumma qinee ‘adhaabaka yawma tab’athu ‘ibaadak",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionA",
+            "feedback": "Sahih Muslim (2709), Ibn Majah (3518), Tirmidhi , Tehqeeq by Dr. Bashaar (5:555, 3604-b), teen martaba Tirmidhi ke mutabiq; Albani ne ise Sahih kaha hai: Sahih at Targheeb (1:412).\r\n\r\nIs hadees mein is ki fazeelat yeh bayan hui hai ke jo shakhs shaam ko teen martaba yeh kalmaat parh le gaa, us raat usay koi zahrili cheez nuqsaan nahi pahncha sakay gi."
+        },
+        {
+            "question": "Sone Ke Waqt \"Apni dono hathelion ko ikattha karen, phir ye suraten (Surah Ikhlaas, Surah Falaq, aur Surah Naas) parh kar un par phoonk marain. phir sir, chehra aur jism ke samne se shuru karte hue taaqat ke mutabiq saare badan par phairen, is tarah teen martaba karen\" Kya Ye Amal Karna Sahih hai.?",
+            "optionA": "Ghalat Hai",
+            "optionB": "Sahih Hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Narrated 'Aisha:\r\n\r\nWhenever the Prophet (ﷺ) went to bed every night, he used to cup his hands together and blow over it after reciting Surat Al-Ikhlas, Surat Al-Falaq and Surat An-Nas, and then rub his hands over whatever parts of his body he was able to rub, starting with his head, face and front of his body. He used to do that three times.\r\n\r\nSahih al-Bukhari 5017"
+        },
+        {
+            "question": "Woh Kounsi Qurani Aayten hai Jo Raat Ko Sone Se Pehle Padhne se Allah ki taraf se aek muhafiz mutayyin kar diya jata hai aur subah tak shaytan us ke qareeb nahi aa sakta",
+            "optionA": "Surah Fatiha",
+            "optionB": "Ayatul Kursi",
+            "optionC": "3 Quls",
+            "optionD": "Surah Mulk",
+            "answer": "optionB",
+            "feedback": "Sahih. Ibn Khuzaymah (2424), Sunan al Kubra by Nasai (10720), Bukhari Ta’leeqan (2311), Albani ne ise Sahih kaha hai: Sahih Targheeb (1:392)."
+        },
+        {
+            "question": "Woh Kounsi Dua hai Jo bistar par Aate waqt parh le to us ke liye yeh aek \"khadim\" se behtar hai ",
+            "optionA": "Surah Fatiha",
+            "optionB": "Ayatul Kursi",
+            "optionC": "Subhan Allah 33 Martaba, Alhamdulillah 33 Martaba, Allahu Akbar 34 Martaba",
+            "optionD": "null",
+            "answer": "optionC",
+            "feedback": "Narrated `Ali: Fatima complained of the suffering caused to her by the hand mill. Some Captives were brought to the Prophet, she came to him but did not find him at home `Aisha was present there to whom she told (of her desire for a servant). When the Prophet (ﷺ) came, Aisha informed him about Fatima's visit. `Ali added \"So the Prophet (ﷺ) came to us, while we had gone to our bed I wanted to get up but the Prophet (ﷺ) said, \"Remain at your place\". Then he sat down between us till I found the coolness of his feet on my chest. Then he said, \"Shall I teach you a thing which is better than what you have asked me? When you go to bed, say, 'Allahu-Akbar' thirty-four times, and 'Subhan Allah thirty-three times, and 'Al hamdu-li l-lah thirty-three times for that is better for you both than a servant.\"\r\n\r\nSahih al-Bukhari 3705\r\n"
+        },
+        {
+            "question": "Allaahumma bismika amootu wa ahyaa\" : Ye Dua Kab Padhna Chahiye...?? ",
+            "optionA": "Subho Utkar",
+            "optionB": "Har Farz Namaz Ke Baad",
+            "optionC": "Raat Sone se Pehle",
+            "optionD": "Barish Ka waqt",
+            "answer": "optionC",
+            "feedback": "Narrated Hudhaifa:\r\n\r\nWhen the Prophet (ﷺ) went to bed at night, he would put his hand under his cheek and then say, \"Allahumma bismika amutu wa ahya,\" and when he got up, he would say, \"Al-Hamdu lil-lahi al-ladhi ahyana ba'da ma amatana, wa ilaihi an-nushur.\"\r\n\r\nSahih al-Bukhari 6314"
+        },
+        {
+            "question": "Jise Eemaan Mein shak ho jaye Toh woh kya kare..??",
+            "optionA": "Darood Padhen",
+            "optionB": "Ayatul Kursi Padhen",
+            "optionC": "Aamantu billaahi wa rusulihi Padhen",
+            "optionD": "null",
+            "answer": "optionC",
+            "feedback": "It is narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:\r\n\r\nMen will continue to question one another till this is propounded: Allah created all things but who created Allah? He who found himself confronted with such a situation should say: I affirm my faith in Allah.\r\n\r\nSahih Muslim 134"
+        },
+        {
+            "question": "Qarz se Nijaat ki Dua Kya hai.??",
+            "optionA": "Allaahummak finee bi halaalika ‘an haraamika, wa aghninee bi fadhlika ‘am man siwaak",
+            "optionB": "Allaahumma laa sahla illaa maa ja'altahu sahla wa anta taj'alul hazna idhaa shi-ta sahla",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionA",
+            "feedback": "Tirmidhi (3563), Musnad Ahmad Maimanah Print (1:153). Albani ne ise Hasan kaha hai: in Sahiha (266). Dekhen Endnote 35"
+        },
+        {
+            "question": "Jo shakhs koi Gunah kar baithe to woh acchi tarah wazu kare, phir khada hokar do rak-at Namaz parhay Allah taala se mafi mange to Allah taala use maaf kar deta hai : Kya Ye Baat Waqai Sahih hai..?? ",
+            "optionA": "Sahih Hai",
+            "optionB": "Ghalat Hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionA",
+            "feedback": "Abu Bakr narrated to me a tradition, and Abu Bakr narrated truthfully. He said: I heard the apostle of Allah (ﷺ) saying: When a servant (of Allah) commits a sin, and he performs ablution well, and then stands and prays two rak'ahs, and asks pardon of Allah, Allah pardons him. He then recited this verse: \"And those who, when they commit indecency or wrong their souls, remember Allah\" (Al-Qur'an 3:135).\r\n\r\nSunan Abi Dawud 1521: Sahih By : Shaykh Al-Albaani"
+        },
+        {
+            "question": "Shaytan kab bhagta hai..?",
+            "optionA": "Shaytan se Allah ki panah mangi jaye tab",
+            "optionB": "Jab azaan ho Tab",
+            "optionC": "Masnoon azkar aur Quran ki qiraat karen tab",
+            "optionD": "All of the above",
+            "answer": "optionD",
+            "feedback": "A: Option Ki Daleel : Surah Mu’minoon: 97-98; Nez woh tamam ahadees jin mein mukhtalif mawaqay se shaytani waswason se bachney ke liye isteyaza ki taleem di gayi un se bhi aik umumi mas’ala nikalta hai ke har tarah ke shaytani waswasa ka aik ilaaj isteyaza hay hai.\r\n\r\nB: Options Ki Daleel: Sahih Bukhari (608) aur Sahih Muslim (389) waghera ki ahadees se yeh saabit hai ke namaz ke liye jo azaan di jati hai is se shaytan bhagta hai, lekin kya ghair namaz wali azaan se bhi shaytan bhagta hai? Yeh mohtaaj e daleel hai, balkay namaz ke ilawa mahez shaytan bhaganay ke liye azaan dena hi fi nafsihi saabit nahi.\r\n\r\nC: Option Ki Daleel: Sahih hadees hai ke gharon ko qabrastan na banao, jis ghar mein Surah Baqra ki tilawat hoti hai us ghar se shaytan bhagta hai (Sahih Muslim 780). Darj zail cheezon ke ehtemaam se bhi shaytan bhagta hai: Subah o shaam ke azkar, sonay aur bedar honay ke azkar, ghar mein daakhil honay aur nikalney ki duayen, masjid mein daakhil honay aur nikalnay ki duayen, is ke ilawa deegar tamam masnun azkaar, maslan sotay waqt aayatul kursi aur Surah Baqra ki aakhri do aayaat ki tilawat, isi tarah jis ne din mein 100 baar : Laa ilaaha illallaahu wahdahu laa shareeka lahu, lahul mulku wa lahul hamdu, wa huwa 'alaa kulli shay-in qadeer) kaha us din woh shaytan se mehfooz rahay ga; (dekihye footnote 138). Isi tarah (namazon ki) azaanen bhi shaytan ko bhagati hain."
+        }
+    ]
+}
