@@ -19,7 +19,7 @@
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuranIcon.png",
             "featureVisibility": "yes",
             "updatedVersion":"5",
-            "showUpdateFlag" : "14062020_05"
+            "showUpdateFlag" : "14062020_06"
         }
     ]
 }
