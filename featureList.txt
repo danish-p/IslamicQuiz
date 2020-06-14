@@ -5,7 +5,7 @@
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuizIcon.png",
             "featureVisibility": "yes",
             "updatedVersion":"5",
-            "showUpdateFlag" : "14062020_02"
+            "showUpdateFlag" : "14062020_03"
         },
         {
             "featureName": "Hadees",
