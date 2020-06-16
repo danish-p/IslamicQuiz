@@ -1,9 +1,6 @@
 {
   "hadeesList": [
         {
-            "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Surat-ul-mulk-2.jpg"
-        },
-        {
             "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees11.jpg"
         },
         {
