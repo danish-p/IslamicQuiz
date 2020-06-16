@@ -6,6 +6,41 @@
 "urduMeaning":"حضرت کعب بن عجرہ راضی الله عنہ سے انہونے رسول الله ﷺ سے روایت کی ، آپ نے فرمایا : اک دوسرے کے بعد کہے جانے والے (کچھ) کلمات ہے، ان کو کہنے والا - یاد کرنے والا - نہ کام یا نہ مراد نہیں رہتا ہر (فرض) نماز کے بعد تیس مرتبہ سبحاناللہ ، تیس مرتبہ الحمد لللہ اور چوتیس مرتبہ الله اکبر کہنا ",
 "englishMeaning":"Kab bin Ujra reported Allahs Messenger (ﷺ) as saying: There are certain ejaculations, the repeaters of which or the performers of which at the end of every prayer will never be caused disappointment:   Glory be to Allah   thirty-three times,   Praise be to Allah   thirty-three times, and   Allah is most Great   thirty-four times.",
 "hindiMeaning":"हज़रत काब बिन उजरा रझी अल्लाह अन्ह से और उन्होंने रसूल अल्लाह (ﷺ) से रिवायत की , आप ने फ़रमाया : इक दूसरे के बाद कहे जाने वाले (कुछ) कलमात है, इन को कहने वाला - याद करने वाला नाकाम या न मुराद नहीं रहता , हर (फ़र्ज़ ) नमाज़ के बाद ३३ मर्तबा सुभानअल्लाह , ३३ मर्तबा अल्हम्दुलिल्लाह एंड ३४ मर्तबा अल्लाहुअक्बर कहना "
+},
+{
+"name":"Tasbeeh 1 : ",
+"arabic":"",
+"urduMeaning":"حضرت کعب بن عجرہ راضی الله عنہ سے انہونے رسول الله ﷺ سے روایت کی ، آپ نے فرمایا : اک دوسرے کے بعد کہے جانے والے (کچھ) کلمات ہے، ان کو کہنے والا - یاد کرنے والا - نہ کام یا نہ مراد نہیں رہتا ہر (فرض) نماز کے بعد تیس مرتبہ سبحاناللہ ، تیس مرتبہ الحمد لللہ اور چوتیس مرتبہ الله اکبر کہنا ",
+"englishMeaning":"Kab bin Ujra reported Allahs Messenger (ﷺ) as saying: There are certain ejaculations, the repeaters of which or the performers of which at the end of every prayer will never be caused disappointment:   Glory be to Allah   thirty-three times,   Praise be to Allah   thirty-three times, and   Allah is most Great   thirty-four times.",
+"hindiMeaning":"हज़रत काब बिन उजरा रझी अल्लाह अन्ह से और उन्होंने रसूल अल्लाह (ﷺ) से रिवायत की , आप ने फ़रमाया : इक दूसरे के बाद कहे जाने वाले (कुछ) कलमात है, इन को कहने वाला - याद करने वाला नाकाम या न मुराद नहीं रहता , हर (फ़र्ज़ ) नमाज़ के बाद ३३ मर्तबा सुभानअल्लाह , ३३ मर्तबा अल्हम्दुलिल्लाह एंड ३४ मर्तबा अल्लाहुअक्बर कहना "
+},
+{
+"name":"Tasbeeh 1 : ",
+"arabic":"",
+"urduMeaning":"حضرت کعب بن عجرہ راضی الله عنہ سے انہونے رسول الله ﷺ سے روایت کی ، آپ نے فرمایا : اک دوسرے کے بعد کہے جانے والے (کچھ) کلمات ہے، ان کو کہنے والا - یاد کرنے والا - نہ کام یا نہ مراد نہیں رہتا ہر (فرض) نماز کے بعد تیس مرتبہ سبحاناللہ ، تیس مرتبہ الحمد لللہ اور چوتیس مرتبہ الله اکبر کہنا ",
+"englishMeaning":"Kab bin Ujra reported Allahs Messenger (ﷺ) as saying: There are certain ejaculations, the repeaters of which or the performers of which at the end of every prayer will never be caused disappointment:   Glory be to Allah   thirty-three times,   Praise be to Allah   thirty-three times, and   Allah is most Great   thirty-four times.",
+"hindiMeaning":"हज़रत काब बिन उजरा रझी अल्लाह अन्ह से और उन्होंने रसूल अल्लाह (ﷺ) से रिवायत की , आप ने फ़रमाया : इक दूसरे के बाद कहे जाने वाले (कुछ) कलमात है, इन को कहने वाला - याद करने वाला नाकाम या न मुराद नहीं रहता , हर (फ़र्ज़ ) नमाज़ के बाद ३३ मर्तबा सुभानअल्लाह , ३३ मर्तबा अल्हम्दुलिल्लाह एंड ३४ मर्तबा अल्लाहुअक्बर कहना "
+},
+{
+"name":"Tasbeeh 1 : ",
+"arabic":"",
+"urduMeaning":"حضرت کعب بن عجرہ راضی الله عنہ سے انہونے رسول الله ﷺ سے روایت کی ، آپ نے فرمایا : اک دوسرے کے بعد کہے جانے والے (کچھ) کلمات ہے، ان کو کہنے والا - یاد کرنے والا - نہ کام یا نہ مراد نہیں رہتا ہر (فرض) نماز کے بعد تیس مرتبہ سبحاناللہ ، تیس مرتبہ الحمد لللہ اور چوتیس مرتبہ الله اکبر کہنا ",
+"englishMeaning":"Kab bin Ujra reported Allahs Messenger (ﷺ) as saying: There are certain ejaculations, the repeaters of which or the performers of which at the end of every prayer will never be caused disappointment:   Glory be to Allah   thirty-three times,   Praise be to Allah   thirty-three times, and   Allah is most Great   thirty-four times.",
+"hindiMeaning":"हज़रत काब बिन उजरा रझी अल्लाह अन्ह से और उन्होंने रसूल अल्लाह (ﷺ) से रिवायत की , आप ने फ़रमाया : इक दूसरे के बाद कहे जाने वाले (कुछ) कलमात है, इन को कहने वाला - याद करने वाला नाकाम या न मुराद नहीं रहता , हर (फ़र्ज़ ) नमाज़ के बाद ३३ मर्तबा सुभानअल्लाह , ३३ मर्तबा अल्हम्दुलिल्लाह एंड ३४ मर्तबा अल्लाहुअक्बर कहना "
+},
+{
+"name":"Tasbeeh 1 : ",
+"arabic":"",
+"urduMeaning":"حضرت کعب بن عجرہ راضی الله عنہ سے انہونے رسول الله ﷺ سے روایت کی ، آپ نے فرمایا : اک دوسرے کے بعد کہے جانے والے (کچھ) کلمات ہے، ان کو کہنے والا - یاد کرنے والا - نہ کام یا نہ مراد نہیں رہتا ہر (فرض) نماز کے بعد تیس مرتبہ سبحاناللہ ، تیس مرتبہ الحمد لللہ اور چوتیس مرتبہ الله اکبر کہنا ",
+"englishMeaning":"Kab bin Ujra reported Allahs Messenger (ﷺ) as saying: There are certain ejaculations, the repeaters of which or the performers of which at the end of every prayer will never be caused disappointment:   Glory be to Allah   thirty-three times,   Praise be to Allah   thirty-three times, and   Allah is most Great   thirty-four times.",
+"hindiMeaning":"हज़रत काब बिन उजरा रझी अल्लाह अन्ह से और उन्होंने रसूल अल्लाह (ﷺ) से रिवायत की , आप ने फ़रमाया : इक दूसरे के बाद कहे जाने वाले (कुछ) कलमात है, इन को कहने वाला - याद करने वाला नाकाम या न मुराद नहीं रहता , हर (फ़र्ज़ ) नमाज़ के बाद ३३ मर्तबा सुभानअल्लाह , ३३ मर्तबा अल्हम्दुलिल्लाह एंड ३४ मर्तबा अल्लाहुअक्बर कहना "
+},
+{
+"name":"Tasbeeh 1 : ",
+"arabic":"",
+"urduMeaning":"حضرت کعب بن عجرہ راضی الله عنہ سے انہونے رسول الله ﷺ سے روایت کی ، آپ نے فرمایا : اک دوسرے کے بعد کہے جانے والے (کچھ) کلمات ہے، ان کو کہنے والا - یاد کرنے والا - نہ کام یا نہ مراد نہیں رہتا ہر (فرض) نماز کے بعد تیس مرتبہ سبحاناللہ ، تیس مرتبہ الحمد لللہ اور چوتیس مرتبہ الله اکبر کہنا ",
+"englishMeaning":"Kab bin Ujra reported Allahs Messenger (ﷺ) as saying: There are certain ejaculations, the repeaters of which or the performers of which at the end of every prayer will never be caused disappointment:   Glory be to Allah   thirty-three times,   Praise be to Allah   thirty-three times, and   Allah is most Great   thirty-four times.",
+"hindiMeaning":"हज़रत काब बिन उजरा रझी अल्लाह अन्ह से और उन्होंने रसूल अल्लाह (ﷺ) से रिवायत की , आप ने फ़रमाया : इक दूसरे के बाद कहे जाने वाले (कुछ) कलमात है, इन को कहने वाला - याद करने वाला नाकाम या न मुराद नहीं रहता , हर (फ़र्ज़ ) नमाज़ के बाद ३३ मर्तबा सुभानअल्लाह , ३३ मर्तबा अल्हम्दुलिल्लाह एंड ३४ मर्तबा अल्लाहुअक्बर कहना "
 }
 ]
 }
