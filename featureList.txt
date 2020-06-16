@@ -20,6 +20,20 @@
             "featureVisibility": "yes",
             "updatedVersion":"5",
             "showUpdateFlag" : "14062020_06"
+        },
+        {
+            "featureName": "Tasbeeh",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuranIcon.png",
+            "featureVisibility": "yes",
+            "updatedVersion":"6",
+            "showUpdateFlag" : "14062020_06"
+        },
+        {
+            "featureName": "Hayat-Us-Sahaba",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuranIcon.png",
+            "featureVisibility": "yes",
+            "updatedVersion":"6",
+            "showUpdateFlag" : "14062020_06"
         }
     ]
 }
