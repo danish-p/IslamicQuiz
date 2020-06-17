@@ -30,7 +30,7 @@
         },
         {
             "featureName": "Hayat-Us-Sahaba",
-            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuranIcon.png",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/HayatusSahabaIcon.jpg",
             "featureVisibility": "yes",
             "updatedVersion":"6",
             "showUpdateFlag" : "14062020_06"
