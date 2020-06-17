@@ -1,0 +1,94 @@
+{
+"Course 10": [
+        {
+            "question": "Hamare Nabi ﷺ kab Aur Kahan Paida huye..? ",
+            "optionA": "Nabi ﷺ Rabiul Awwal 9 Tareeq ko Subho Sadiq Ke Wakt Madina Mein Paida Huye",
+            "optionB": "Nabi ﷺ Rabiul Awwal 9 Tareeq ko Sham Ke Wakt Makkah Mein Paida Huye",
+            "optionC": "Nabi ﷺ Rabiul Awwal 9 Tareeq ko Subho Sadiq Ke Wakt Makkah Mein Paida Huye",
+            "optionD": "Nabi ﷺ Rabiul Awwal 9 Tareeq ko Raat Ke Wakt Makkah Mein Paida Huye",
+            "answer": "optionC",
+            "feedback": "-"
+        },
+        {
+            "question": "Mohammad ﷺ Naam Kisne Rakha Tha..?",
+            "optionA": "Walid",
+            "optionB": "Maa",
+            "optionC": "Dada",
+            "optionD": "Abu Talib",
+            "answer": "optionC",
+            "feedback": "-"
+        },
+        {
+            "question": "Mohammad ﷺ Ke Dada Kis Naam Se Mashoor The Aur Unka Asl Naam Kya Tha..?",
+            "optionA": "Abdul Muttalib Ke Naam Se Mashoor The Unka Asl Naam \"Hashim\" Tha",
+            "optionB": "Abdul Muttalib Ke Naam Se Mashoor The Aur Unka Asl Naam Abu Talib tha",
+            "optionC": "Abdul Muttalib Ke Naam Se Mahoor The aur Unka Asl Naam \"Shaiba\" The",
+            "optionD": "null",
+            "answer": "optionC",
+            "feedback": "-"
+        },
+        {
+            "question": "Nabi ﷺ Ke Kitne Chacha The..?",
+            "optionA": "Sirf 1",
+            "optionB": "6",
+            "optionC": "9",
+            "optionD": "3",
+            "answer": "optionC",
+            "feedback": "-"
+        },
+        {
+            "question": "Abu Talib Islam Qubool Karne Se Mahroom Kyun Reh Gaye..?? ",
+            "optionA": "Kyun ki Mohammad ﷺ Ka Deen Pasand nahi Tha",
+            "optionB": "Apne Takabbur Ke Wajese Qubool nahi Kiye The",
+            "optionC": "Kyun Ki Apne Qaum ki Aar Aur Sharam ke Wajese Islam Qubool Nahi Kiya.",
+            "optionD": "null",
+            "answer": "optionC",
+            "feedback": "-"
+        },
+        {
+            "question": "Nabi ﷺ Ka Pehla Nikah Kisne Padaya..? ",
+            "optionA": "Abu Bakar (R.a)",
+            "optionB": "Abu Talib",
+            "optionC": "Hamza (R.a)",
+            "optionD": "Umar (R.a)",
+            "answer": "optionB",
+            "feedback": "-"
+        },
+        {
+            "question": "Nabi ﷺ ki Woh Kounsi Biwi thi jisse Aap bahut Zyada Mohabbat karte the, q ke Jab Makkah walo Ne Nabi ki dawat ko Thukraya, toh unhone qubool kiya? ",
+            "optionA": "Amma Ayesha R.a",
+            "optionB": "Amma Zaiban R.a",
+            "optionC": "Amma Khadeeja R.a",
+            "optionD": "null",
+            "answer": "optionC",
+            "feedback": "-"
+        },
+        {
+            "question": "Nabi ﷺ ki Teesri Biwi Ka Naam kya hai..?",
+            "optionA": "Sauda Bint e zamah R.a",
+            "optionB": "Ayesha R.a",
+            "optionC": "Hafsa R.a",
+            "optionD": "Zainab R.a",
+            "answer": "optionB",
+            "feedback": "-"
+        },
+        {
+            "question": "Nabi ﷺ Ki Kis Biwi ko Allah Ne Jibraeel A.s ke Zariye Se Salam Beja",
+            "optionA": "Ayesha R.a",
+            "optionB": "Zainab R.a",
+            "optionC": "Hafsa R.a",
+            "optionD": "Khadeeja R.a",
+            "answer": "optionD",
+            "feedback": "-"
+        },
+        {
+            "question": "Nabi ﷺ Ki Kounsi Biwi Ko Ummul Masakeen (miskeenon ka Maan) Kaha Jata hai..? ",
+            "optionA": "Ayesha R.a",
+            "optionB": "Zainab Binte Khuzaima",
+            "optionC": "Hafsah R.a",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "-"
+        }
+    ]
+}
