@@ -24,14 +24,14 @@
         {
             "featureName": "Tasbeeh",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/TasbeehIcon.jpg",
-            "featureVisibility": "yes",
+            "featureVisibility": "no",
             "updatedVersion":"6",
             "showUpdateFlag" : "14062020_06"
         },
         {
             "featureName": "Hayat-Us-Sahaba",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/HayatusSahabaIcon.jpg",
-            "featureVisibility": "yes",
+            "featureVisibility": "no",
             "updatedVersion":"6",
             "showUpdateFlag" : "14062020_06"
         }
