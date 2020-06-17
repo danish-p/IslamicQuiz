@@ -4,34 +4,34 @@
             "featureName": "Quiz",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuizIcon.png",
             "featureVisibility": "yes",
-            "updatedVersion":"5",
+            "updatedVersion":"6",
             "showUpdateFlag" : "14062020_05"
         },
         {
             "featureName": "Hadees",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/HadeesIcon.png",
             "featureVisibility": "yes",
-            "updatedVersion":"5",
+            "updatedVersion":"6",
             "showUpdateFlag" : "14062020_05"
         },
         {
             "featureName": "Quran",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuranIcon.png",
             "featureVisibility": "yes",
-            "updatedVersion":"5",
+            "updatedVersion":"6",
             "showUpdateFlag" : "14062020_06"
         },
         {
             "featureName": "Tasbeeh",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/TasbeehIcon.jpg",
-            "featureVisibility": "no",
+            "featureVisibility": "yes",
             "updatedVersion":"6",
             "showUpdateFlag" : "14062020_06"
         },
         {
             "featureName": "Hayat-Us-Sahaba",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/HayatusSahabaIcon.jpg",
-            "featureVisibility": "no",
+            "featureVisibility": "yes",
             "updatedVersion":"6",
             "showUpdateFlag" : "14062020_06"
         }
