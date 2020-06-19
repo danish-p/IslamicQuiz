@@ -23,7 +23,7 @@
         },
         {
             "featureName": "Tasbeeh",
-            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/TasbeehIcon.jpg",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/TasbeehIcon.png",
             "featureVisibility": "yes",
             "updatedVersion":"6",
             "showUpdateFlag" : "14062020_06"
