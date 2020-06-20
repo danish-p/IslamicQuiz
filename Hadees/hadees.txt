@@ -1,7 +1,7 @@
 {
   "hadeesList": [
         {
-            "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees14.jpg"
+            "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees14.png"
         },
         {
             "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees13.jpg"
