@@ -1,31 +1,31 @@
 {
-"FinalRanks": [
+        "FinalRanks": [
         {
-            "username": "zahir",
+            "username": "shaistabaig98@gmail.com",
             "rank": "1",
-            "lastDateUpdated": "25-May-2020"
+            "lastDateUpdated": "22-June-2020"
         },
         {
-            "username": "javed",
+            "username": "sksummi.027@gmail.com",
             "rank": "2",
             "lastDateUpdated": "deeniyatapp2@gmail.com"
         },
         {
-            "username": "idris",
+            "username": "zaheer3115@gmail.com",
             "rank": "3",
             "lastDateUpdated": "danish@Deeniyat"
         },
         {
-            "username": "bilal",
+            "username": "chatintegration28@gmail.com",
             "rank": "4",
             "lastDateUpdated": "https://www.instagram.com/deeniyat_app/"
         },
         {
-            "username": "Romesa",
+            "username": "aasimshaikh008@gmail.com",
             "rank": "5"
         },
         {
-            "username": "zubair",
+            "username": "altaf201111@gmail.com",
             "rank": "6"
         },
         {
@@ -33,20 +33,96 @@
             "rank": "7"
         },
         {
-            "username": "gulam",
+            "username": "kazimehvish895@gmail.com",
             "rank": "8"
         },
         {
-            "username": "bashir",
+            "username": "2010rameendarji@gmail.com",
             "rank": "9"
         },
         {
-            "username": "ejaz",
+            "username": "risayyed8@gmail.com",
             "rank": "10"
         },
         {
-            "username": "bilal",
+            "username": "zeenat161978@gmail.com",
             "rank": "11"
+        },
+        {
+            "username": "raziyasultana674@gmail.com",
+            "rank": "12"
+        },
+        {
+            "username": "aaftabalam355@gmail.com",
+            "rank": "13"
+        },
+        {
+            "username": "sb.bilal313@gmail.com",
+            "rank": "14"
+        },
+        {
+            "username": "akmalshaikh734@gmail.com",
+            "rank": "15"
+        },
+        {
+            "username": "talhashaikh705@gmail.com",
+            "rank": "16"
+        },
+        {
+            "username": "saltanatbagwan@gmail.com",
+            "rank": "17"
+        },
+        {
+            "username": "sayyadarshadali@gmail.com",
+            "rank": "18"
+        },
+        {
+            "username": "shaikhzaeem8680@gmail.com",
+            "rank": "19"
+        },
+        {
+            "username": "mudassarqazi88@gmail.com",
+            "rank": "20"
+        },
+        {
+            "username": "aasifakhlaque390@gmail.com",
+            "rank": "21"
+        },
+        {
+            "username": "farheenkhan092@gmail.com",
+            "rank": "22"
+        },
+        {
+            "username": "metheboss856@gmail.com",
+            "rank": "23"
+        },
+        {
+            "username": "iamfurkanshaikh@gmail.com",
+            "rank": "24"
+        },
+        {
+            "username": "tasnimmakandar28@gmail.com",
+            "rank": "25"
+        },
+        {
+            "username": "madigharnaeem@gmail.com",
+            "rank": "26"
+        },
+        {
+            "username": "raufaleem30@gmail.com",
+            "rank": "27"
+        },
+        {
+            "username": "saniyasirajbaig@gmail.com",
+            "rank": "28"
+        },
+        {
+            "username": "sumaiyyat45@gmail.com",
+            "rank": "29"
+        },
+        {
+            "username": "hs863261@gmail.com",
+            "rank": "30"
         }
     ]
 }
