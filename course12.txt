@@ -1,0 +1,94 @@
+{
+"Course 12": [
+        {
+            "question": "Agar Shaadi Karne ka Isteta'at (Halat) Na Ho toh Woh Kya Karen...?",
+            "optionA": "Allah ki Zikr Karna chahiye",
+            "optionB": "Quran Padhna Chahiye",
+            "optionC": "Roza Rakhna chahiye",
+            "optionD": "Zyada Se Zyada Nafil Padhni chahiye",
+            "answer": "optionC",
+            "feedback": "Alqama se riwayat hai ki, mai meena me hazrat Abdullah bin masood رضي الله عنه ke saath chal raha tha k رضي الله عنه se mulaqaat hui wo khade hokar in se baate karne lage, aur kaha abu abdul rehman! kiya hum kisi nawjawan ladki se aap ki shaadi na kara den, shayed wo aap ko aap ka wohi zamana yaad kara de jo guzar chuka hai? kaha : toh hazrat Abdullah bin masood رضي الله عنه : Agar aap ne ye baat kahi hai toh (is se phele) Aapﷺ ne farmaaya tha : aye jawano! tum me se jo koi shaadi ki Isteta'at(Halat), ye nigaah ko zayda jhukane wali aur sharmagaah ki zayda hifazat karne wali hai aur jo halat nahi rakhta to wo roze ko lazim kar le. ye iske liye khawish ko kaabu me karne ka zarya hai\r\n\r\nAl-Muslim 3398"
+        },
+        {
+            "question": "Mahaz Gurbat Aur Tangdasti Ke Wajese Nikah Ko der Karna kaisa hai..??*",
+            "optionA": "Sahih hain",
+            "optionB": "Sahih Nahi",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "tum mein say jinn ( mardon ya aurton ) ka iss/uss waqt nikah naa ho , inn/unn ka bhi nikah kerao , aur tumharay ghulamon aur baandiyon mein say jo nikah kay qabil hun , inn/unn ka bhi . agar woh tang dast hun tu Allah apney fazal say enhen/unhen bey niaz kerday ga .   aur Allah boht wusat wala hai , sabb kuch janta hai .\r\n\r\nSurat-un-Noor 32"
+        },
+        {
+            "question": "Kya Mushrik Aurat (Gair Muslim Aurat) ya Mushrik Mard (Gair Muslim Mard) Se Nikah karna Jaiz hai..?",
+            "optionA": "Ji Jaiz hai",
+            "optionB": "Jaiz nahi",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "aur mushrik aurton say iss/uss waqt tak nikah naa kero jab tak woh emaan naa ley ayen . yaqeenan aik momin baandi kissi bhi mushrik aurat say behtar hai , khuwa woh mushrik aurat tumhen pasand aarahi ho . aur apni aurton ka nikah mushrik mardon say naa kerao jab tak woh emaan naa ley ayen . aur yaqeenan aik momin ghulam kissi bhi mushrik mard say behtar hai , khuwa woh mushrik mard tumhen pasand aaraha ho . yeh sabb dozakh ki taraf bulatay hain , jabkay Allah apney hukum say jannat aur maghfirat ki taraf bulata hai , aur apney ehkaam logon  kay samney saaf saaf biyan kerta hai takay woh naseehat hasil keren .\r\n\r\nQuran 2:221"
+        },
+        {
+            "question": "Muslim Aurat Se Nikah Kis Chees Ke Bina Par Kiya jata hai..?",
+            "optionA": "Khandan Ki Bina par",
+            "optionB": "Khubsurati Ki bina Par",
+            "optionC": "Mal Ki Bina par",
+            "optionD": "Deendari Ki Bina par",
+            "answer": "optionD",
+            "feedback": "Aapﷺ ne farmaaya: Aurat se nikah 4 cheezo ki bunyaad(based on) par kia jaata hai is ke maal ki wajah se aur is ke khandani sharf ki wajah se aur iski khoobsurti ki wajah se aur iske deen ki wajah se aur tum deendaar aurat se nikah kar ke kaamiyabi haasil kar, agar aisa na kare toh tere haatho ko meetthi lagegi.\r\n\r\nAl-Bukhaari - 5090"
+        },
+        {
+            "question": "Aurat (ya) Aurat K Walid Ko Musalman Ladka Se Shadi Karne Ke Liye Kya Dekhna Chahiye..?",
+            "optionA": "Paisa Dekhna Chahiye",
+            "optionB": "Khandan Dekhna chahiye",
+            "optionC": "Deen o Akhlaq (Taqwa wala)",
+            "optionD": "Khoobsurat (Handsome)",
+            "answer": "optionC",
+            "feedback": "Aapﷺ ne farmaaya: jab tumhe koi aisa shaksh shaadi ka paigaam de, jis ki deendaari aur akhlaq se tumhe itmaynaan(satisfied) (someone under the care) ho toh is se shaadi kar do agar aisa nahi karoge toh zameen me fitna aur fasaad azeem barpa hoga\r\n\r\nAl-Tirmizi - "
+        },
+        {
+            "question": "Kya ye Baat Sahih hai Ke Muslim Aurat Se Shadi karne Ke Liye Uski deendari Afzaliyat Ke sath Sath Thoda bahut Khoobsurati Dekhna Bhi Jayez Hai...?",
+            "optionA": "Sahih nahi hai. Sirf Deendari Dekhna hai",
+            "optionB": "Sahih hai. Deendari ke sath Khoobsurati bhi dekhna Chahiye",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "-"
+        },
+        {
+            "question": "Nikah Ka Paigham dene se Pehle Ek Baar Ladki Ya Ladka ko Dekhna Kaisa hai..?",
+            "optionA": "Jaiz hai",
+            "optionB": "Jaiz nahi Balke Haram hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionA",
+            "feedback": "Abu Hurayrah: “I was with the Prophet (peace and blessings of Allaah be upon him) when a man came and told him that he had married a woman of the Ansaar. The Messenger of Allaah (peace and blessings of Allaah be upon him) said to him, ‘Have you seen her?’ He said, ‘No.’ He said, ‘Go and look at her, for there is something in the eyes of the Ansaar.”\r\n\r\n(Reported by Muslim, no. 1424; and by al-Daaraqutni, 3/253 (34))"
+        },
+        {
+            "question": "Aisi Khatoon Ko Nikah Ka Paigham Dena kaisa hai jo Woh Raj'ee Talaq Ki iddat Guzar Rahi Ho...??",
+            "optionA": "Ji Jaiz hai",
+            "optionB": "Jaiz nahi",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "aur ( iddat kay doran ) agar tum inn/unn aurton ko isharay kanaye mein nikah ka paygham do ya ( inn/unn say nikah ka irada ) dil mein chupaye rakho tu tum per koi gunah nahi hai . Allah janta hai kay tum inn/unn ( say nikah ) ka khayal tu dil mein lao gay , lekin inn/unn say nikah ka do tarfa wada matt kerna , illa yeh kay munasib tareeqay say koi baat keh do   . aur nikah ka aqd paka kernay ka iss/uss waqt tak irada bhi matt kerna jab tak iddat ki muqarrara mauddat apni miyaad ko naa phonch jaye . aur yaad rakho kay jo kuch tumharay dilon mein hai Allah ussay/issay khoob janta hai ; lehaza iss/uss say dartay raho ; aur yaad kho kay Allah boht bakhshney wala , bara burdbaar hai .\r\n\r\nSurah Baqara 235"
+        },
+        {
+            "question": "Ladki ko Ladka Pasand nahi kya Baghair Pasand Nikah Hojayega..?",
+            "optionA": "Ladki ko Ladka Pasand nahi kya Baghair Pasand Nikah Hojayega..?",
+            "optionB": "Nahi hota",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "-"
+        },
+        {
+            "question": "Kya Nikah ke Liye Ladki Ki Wali (Baap) Ke begair Nikah Hojayega..??",
+            "optionA": "Nikah Nahi Hoti",
+            "optionB": "Nikah Hojati",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionA",
+            "feedback": "Aapﷺ ne farmaaya: jo aurat apne walid ki izazat ke bagair nikah kare iska nikah baatil hai, Aapﷺ ne farmaaya isko 3 martaba farmaaya.\r\n\r\nSahih (Al-Albani)Sunan Abi Dawud 2083"
+        }
+    ]
+}
