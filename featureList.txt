@@ -12,7 +12,7 @@
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/HadeesIcon.png",
             "featureVisibility": "yes",
             "updatedVersion":"6",
-            "showUpdateFlag" : "14062020_17"
+            "showUpdateFlag" : "14062020_18"
         },
         {
             "featureName": "Quran",
