@@ -1,7 +1,7 @@
 {
   "TafseerList": [
         {
-            "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/DrIsrarAhmed.jpg",
+            "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/DrIsrarAhmed.jpg",
             "name":"Dr Israr Ahmed",
             "id":"1",
             "items":"10 items"
