@@ -34,6 +34,13 @@
             "featureVisibility": "yes",
             "updatedVersion":"6",
             "showUpdateFlag" : "14062020_001"
+        },
+         {
+            "featureName": "Quran-Tafseer",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/HayatusSahabaIcon.jfif",
+            "featureVisibility": "yes",
+            "updatedVersion":"6",
+            "showUpdateFlag" : "14062020_001"
         }
     ]
 }
