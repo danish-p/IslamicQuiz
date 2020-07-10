@@ -3,7 +3,8 @@
         {
             "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/DrIsrarAhmed.jpg",
             "name":"Dr Israr Ahmed",
-            "id":"1"
+            "id":"1",
+            "items":"10 items"
         }
     ]
 }
