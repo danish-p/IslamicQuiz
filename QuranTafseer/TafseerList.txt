@@ -5,6 +5,12 @@
             "name":"Dr Israr Ahmed",
             "id":"1",
             "items":"10 items"
+        },
+        {
+            "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/DrIsrarAhmed.jpg",
+            "name":"Dr Israr Ahmed",
+            "id":"2",
+            "items":"10 items"
         }
     ]
 }
