@@ -1,0 +1,9 @@
+{
+  "TafseerList": [
+        {
+            "imageLink": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees22.jpg",
+            "name":"abc",
+            "id":"1"
+        }
+    ]
+}
