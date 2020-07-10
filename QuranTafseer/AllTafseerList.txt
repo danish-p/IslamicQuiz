@@ -9,55 +9,55 @@
 {
 "id":"1",
 "name":"2-AL-BAQARAH (001 TO 029)",
-"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%(001%TO%029).mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%20(001%20TO%20029).mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "id":"1",
 "name":"3-AL-BAQARAH (030 TO 046)",
-"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%(030%TO%046).mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%20(030%20TO%20046).mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "id":"1",
 "name":"4-AL-BAQARAH [047 TO 074]",
-"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%[047%TO%074].mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%20%5B047%20TO%20074%5D.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "id":"1",
 "name":"5-AL-BAQARAH [075 TO 107]",
-"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%[075%TO%107].mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%20%5B075%20TO%20107%5D.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "id":"1",
 "name":"6-AL-BAQARAH [142 TO 176]",
-"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%[142%TO%176].mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%20%5B142%20TO%20176%5D.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "id":"1",
 "name":"7-AL-BAQARAH [177 TO 196]",
-"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%[177%TO%196].mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%20%5B177%20TO%20196%5D.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "id":"1",
 "name":"8-AL-BAQARAH [197 TO 228]",
-"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%[197%TO%228].mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%20%5B197%20TO%20228%5D.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "id":"1",
 "name":"9-AL-BAQARAH [229 TO 253]",
-"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%[229%TO%253].mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%20%5B229%20TO%20253%5D.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "id":"1",
 "name":"10-AL-BAQARAH [254 TO End]",
-"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%[254%TO%End].mp3",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/002-AL-BAQARAH%20%5B254%20TO%20End%5D.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
