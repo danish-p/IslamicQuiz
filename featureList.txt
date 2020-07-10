@@ -39,7 +39,7 @@
             "featureName": "Quran-Tafseer",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuranIcon.png",
             "featureVisibility": "yes",
-            "updatedVersion":"6",
+            "updatedVersion":"7",
             "showUpdateFlag" : "14062020_001"
         }
     ]
