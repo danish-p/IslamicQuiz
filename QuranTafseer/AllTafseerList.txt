@@ -2,61 +2,61 @@
 "AllTafseerList":[
 {
 "id":"1",
-"name":"Para 1 : Alif-laam-meem (الم)",
-"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%201.mp3",
+"name":"1-AL-FAATIHAH",
+"link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/QuranTafseer/Dr%20Israr%20Ahmed/001-AL-FAATIHAH.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "id":"1",
-"name":"Para 2 : Sayaqool (سَيَقُولُ)",
+"name":"2-AL-BAQARAH (001 TO 029)",
 "link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%202.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "id":"1",
-"name":"Para 3 : Tilka’r-Rusulu (تِلْكَ الرُّسُلُ)",
+"name":"3-AL-BAQARAH (030 TO 046)",
 "link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%203.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
 "id":"1",
-"name":"Para 4 : Lan Tana Loo (لَنْ تَنَالُوا)",
+"name":"4-AL-BAQARAH [047 TO 074]",
 "link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%204.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"id":"2",
-"name":"Para 5 :  Wal Mohsanat (وَالْمُحْصَنَاتُ)",
+"id":"1",
+"name":"5-AL-BAQARAH [075 TO 107]",
 "link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%205.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"id":"2",
-"name":"Para 6 : La Yuhibbullah (لَا يُحِبُّ اللَّهُ)",
+"id":"1",
+"name":"6-AL-BAQARAH [142 TO 176]",
 "link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%206.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"id":"2",
-"name":"Para 7 : Wa Iza Samiu (وَإِذَا سَمِعُوا)",
+"id":"1",
+"name":"7-AL-BAQARAH [177 TO 196]",
 "link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%207.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"id":"2",
-"name":"Para 8 : Wa Lau Annana (وَلَوْ أَنَّنَا)",
+"id":"1",
+"name":"8-AL-BAQARAH [197 TO 228]",
 "link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%208.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"id":"2",
-"name":"Para 9 : Qalal Malao (قَالَ الْمَلَأُ)",
+"id":"1",
+"name":"9-AL-BAQARAH [229 TO 253]",
 "link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%209.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
 {
-"id":"2",
-"name":"Para 10 : Wa A'lamu (وَاعْلَمُوا)",
+"id":"1",
+"name":"10-AL-BAQARAH [254 TO End]",
 "link":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Quran/Para%2010.mp3",
 "image":"https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg"
 },
