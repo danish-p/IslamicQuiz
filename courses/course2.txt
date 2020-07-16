@@ -1,0 +1,94 @@
+{
+"Course 2": [
+        {
+            "question": "Farz Namazon Ke Baad Afzal Namaz Raat Ki Tahajjud NamaZ Hai: Kya Ye Baat Sahih Hai..??",
+            "optionA": "Ghalat Hai",
+            "optionB": "Sahih Hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "The Prophet Said : “The best prayer (Salaah) after the compulsory ones is that which is done in the middle of the night…”\r\n\r\n[NARRATED BY ABU HURAIRAH ; RECORDED IN SAHEEH MUSLIM, SUNAN ABU DAWOOD, SUNAN TIRMIDHI, SUNAN NASAI, SUNAN IBN MAJAH, ALSO NARRATED BY JUNDAB RECORDED IN AL KABEER BY TABARANI, AR-RUYAANI IN HIS MUSNAD; AUTHENTICATED (SAHEEH) BY ALBANI IN SAHEEH AL JAAMI 1116]"
+        },
+        {
+            "question": "Din Aur Raat Kitne Nawafil Padhne se Uske badle Jannat Mein Ghar Taameer Kiya Jayega...??",
+            "optionA": "14 Rakaten",
+            "optionB": "11 Rakaten",
+            "optionC": "12 Rakaten",
+            "optionD": "10 Rakaten",
+            "answer": "optionC",
+            "feedback": "Umm Habiba (the wife of the Holy Prophet) reported Allah's Messenger (ﷺ) as saying:\r\n\r\nA house will be built in Paradise, for anyone who prays in a day and a night twelve rak'ahs; and she added: I have never abandoned (observing them) since I heard it from the Messenger of Allah (ﷺ). Some of the other narrators said the same words: I have never abandoned (observing them) since I heard (from so and so). [Sahih Muslim: 728 ]"
+        },
+        {
+            "question": "Kya Nabi ﷺ Se Zohar se Pehle 2 Rakat Padhna sahih Hadith Se Sabit Hai..?",
+            "optionA": "Sabit Nahi",
+            "optionB": "Sabit Hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Allah's Messenger (ﷺ) used to pray two rak`at before the Zuhr prayer and two rak`at after it. He also used to pray two rak`at after the Maghrib prayer in his house, and two rak`at after the `Isha' prayer. He never prayed after Jumua prayer till he departed (from the Mosque), and then he would pray two rak`at at home.\r\n\r\nSahih al-Bukhari 937"
+        },
+        {
+            "question": "Woh Kounsi Sunnat Namaz hai Jo Nabi ﷺ Pabandi Se Padhte the..??",
+            "optionA": "Jumah Se Pehle 2 Rakat",
+            "optionB": "Maghrib Ke Baad ke 2 Rakat",
+            "optionC": "Fajr Se Pehle 2 Rakat",
+            "optionD": "Isha Ke baad ke 2 Rakat",
+            "answer": "optionC",
+            "feedback": "A'isha reported that the Apostle (ﷺ) was not so much particular about observing supererogatory rak'ahs as in case of the two rak'ahs of the dawn prayer.\r\n\r\nSahih Muslim 724 f"
+        },
+        {
+            "question": "Wo Kaunsi Sunnat Namaz Hain Jo Baqaidigi Se Adaa Karne Par woh Jahannum Mein Nahi Jayega.??",
+            "optionA": "Fajr Se Pehle 2 Rakat",
+            "optionB": "Tahajjud Ki 8 Rakat",
+            "optionC": "Isha ke baad 2 Rakat aur Fajr se Pehle 2 Rakat",
+            "optionD": "Zohar Se Pehle aur baadme 4 Rakat",
+            "answer": "optionD",
+            "feedback": "Narrated Umm Habibah: The Prophet (ﷺ) said: If anyone keeps on praying regularly four rak'ahs before and four after the noon prayer, he will not enter the Hell-fire.\r\n\r\nAbu Dawud said: Al-'Ala' bin Al-Harith and Sulaiman bin Musa reported it from Makhul with his chain, similarly.\r\n\r\nSahih (Al-Albani)\r\nSunan Abi Dawud 1269"
+        },
+        {
+            "question": "Woh Kounsi Namaz Hai Jo Padhne Se Jannat Wajib Hojati hai..? *",
+            "optionA": "Fajr Ke Pehle Do Rakat",
+            "optionB": "Tahiyatul Wazoo ki 2 Rakat",
+            "optionC": "Zohar ke Pehle 4 Rakat",
+            "optionD": "Salatut Tasbih",
+            "answer": "optionB",
+            "feedback": "Uqba b. 'Amir reported: We were entrusted with the task of tending the camels. On my turn when I came back in the evening after grazing them in the pastures, I found Allah's Messenger (ﷺ) stand and address the people. I heard these words of his: If any Muslim performs ablution well, then stands and prays two rak'ahs setting about them with his heart as well as his face, Paradise would be guaranteed to him. I said: What a fine thing is this! And a narrator who was before me said: The first was better than even this. When I cast a glance, I saw that it was 'Umar who said: I see that you have just come and observed: If anyone amongst you performs the ablution, and then completes the ablution well and then says: I testify that there is no god but Allah and that Muhammad is the servant of Allah and His Messenger, the eight gates of Paradise would be opened for him and he may enter by whichever of them he wishes.\r\n\r\nSahih Muslim 234a"
+        },
+        {
+            "question": "Nafil namazen Kahan Padhna Afzal Hai..? ",
+            "optionA": "Masjid Mein",
+            "optionB": "Ghar Mein",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Zaid b. Thabit reported:\r\n\r\nThe Messenger of Allah (ﷺ) made an apartment with the help of the leaves of date trees or of mats. The Messenger of Allah (ﷺ) went out to pray in it. People followed him and came to pray with him. Then they again came one night and waited (for him), but the Messenger of Allah (ﷺ) delayed in coming out to them. And when he did not come out, they cried aloud and threw pebbles at the door. The Messenger of Allah (ﷺ) came out in anger and said to them: By what you have been constantly doing, I was inclined to think that it (prayer) might not become obligatory for you. So you must observe prayer (optional) in your houses, for the prayer observed by a man in the house is better except an obligatory prayer.\r\n\r\nSahih Muslim 781 a"
+        },
+        {
+            "question": "Woh Kounsi Nafil Namaz hai jo Padhne Se Us Shakhs Par Allah Ki Rahmat Rahegi..??",
+            "optionA": "Maghrib Ke Baad 2 Rakat",
+            "optionB": "Zohar ke pehle 4 Rakat",
+            "optionC": "Asar Se Pehle 4 Rakat",
+            "optionD": "Isha Ke Baad 2 Rakat",
+            "answer": "optionC",
+            "feedback": "Prophet Said : May Allah have Mercy upon A person who observes four rak'ahs (nafl) before Asr.\r\n\r\n[NARRATED BY IBN UMAR ; RECORDED IN SUNAN ABU DAWOOD 1, SUNAN TIRMIDHI: 352 (ALIM ISLAMIC SOFTWARE), IBN HIBBAN; AUTHENTICATED (HASAN) BY ALBANI IN SAHEEH AL JAAMI 3493]"
+        },
+        {
+            "question": "Kya Gunah Hojane Par Wazu karke 2 Rakat \"Salatut Tawbah\" Namaz Padhna Sahih Hadees Se Sabit Hai...?? ",
+            "optionA": "Sabit Nahi",
+            "optionB": "Sabit Hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Abu Dawood (1521) narrated that Abu Bakr al-Siddeeq (may Allaah be pleased with him) said: I heard the Messenger of Allaah (peace and blessings of Allaah be upon him) say:\r\n\r\n“There is no one who commits a sin then purifies himself well and stands and prays two rak’ahs, then asks Allaah for forgiveness, but Allaah will forgive him. Then he recited this verse: ‘And those who, when they have committed Faahishah (illegal sexual intercourse) or wronged themselves with evil, remember Allaah and ask forgiveness for their sins; — and none can forgive sins but Allaah — and do not persist in what (wrong) they have done, while they know’ [Aal ‘Imraan 3:135].” Classed as sahaah by al-Albaani in Saheeh Abi Dawood."
+        },
+        {
+            "question": "Woh Kounsi Nafil Namaz hai Jo Padhne se Agle Aur Pichle Gunah, Chote Aur bade Gunah, Purane Aur naye Gunah, Jaan Buchke kiye Huye Gunah Aur Anjane mein Kiye huye Gunah, Sare Ke Gunah Allah Maaf Kardiya Jayega...??",
+            "optionA": "Tahajjud Namaz",
+            "optionB": "Tahiyatul Wuzu Namaz",
+            "optionC": "Fajr Ke Pehle 2 Rakat",
+            "optionD": "Salatut Tasbeeh Namaz",
+            "answer": "optionD",
+            "feedback": "Nafil Namazon me se Ek Namaz Salaat Ul Tasbeeh hai. Is Nafil namaz ke baare Ulema ke andar iktelaaf hai, Chand Ulema is Hadees ko zaeef kaha hain Lekin Unka Zaeef Kehne Ka Koyi Daleel Nahi hai. Shaykh Albany Ne Kaha Ye Hadees \"Sahih\" hai Aur Hafiz Zubair Ali Zai ne kaha iska Sanad mein Koyi Inqata, illat Aur shuzuz Nahi hai lihaza Ye Hadees \"Hasan\" hai.\r\n\r\nSalaf ke Aksariyat (Jumhoor) Ulama Ne Salatul Tasbeeh ki hadees ko SAHIH kaha hain. Aur ye Bhi Kaha Ye Namaz Padna Jaaiz hai aur Sabit hai.\r\n\r\nReferences : Sunan Abu Daood jild-1 safa-184 kitab al salat hadees no-1105,1297.\r\n\r\n1 Muhaddase Azam Shiekh Nasiruddin Albani ne is hadees ko “Hasan” kaha {sahih al taghrib wa tarhib}\r\n\r\n2.Muhaddis SHAKIR ne bhi is hadees ko saheeh kaha.\r\n\r\n3.SHEIKH. MUBARAKPURI Ne is hadees ko Hasan kaha[Mura’at al mufa teh Sareh Miskat Al musabiya jild-4 safa-374 .}\r\n\r\n4.Muhaddis Shieik Zubair Ali zae bhi Iss hadees ko Hasan kaha ” [Sunnan Abu Dawud, Published by Dar us Salam, Volume No.2, Page No. 96\r\n\r\n5. Imam Muslim ne farmaya: Is mamle mein Rawiyon ke sahih sanad ke saath isse(yani Ibn Abbas ki riwayat se ) behtar koi hadees nahi hai. {Al-Irshaad Lil Khalili, Jild no.1, Safa no.327, Sanad Shahi}\r\n\r\n6. Imam Suyuti kehte hy 20 jalilul Qadr Muhaddaseen bhi Is hadees ko sahii kaha wo a log hy 6) Hafiz Abu-Sa’eed al-Sam’aaniy, 7) Hafiz Khateeb al-Baghdaadiy, 8) Hafiz ibn-Mandah, 9) Imaam Bayhaqi, 10) Imaam al-Subkiy, 11) Imaam al-Nawawiy, 12) Haafiz ibn al-Salat, 13) Hafiz Abu-Musa al-Madiniy, 14) Hafiz al-Alaaeiy, 15) Imaam Siraaj-ud-Deen al-Bulqiniy, 16) Hafiz al-Zarkashiy and a few others. (al-Laalil Masnoo’ah vol.2 pg.42-44)\r\n\r\n7. Ibne Hajr Asqlani kehte hy Ahmed Bin Hambal ne Unke Ray(Opinioun) Ko Baad me Ruzu karliye the Futuhaat al-Rabbaaniyyah vol.4 pg.318, 320)\r\n\r\n8. Muhaddis Zubair Ali Zai rahimaullah kahte hai-"
+        }
+    ]
+}
