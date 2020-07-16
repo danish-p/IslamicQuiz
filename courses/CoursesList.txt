@@ -1,0 +1,56 @@
+{
+    "CoursesList": [
+        {
+            "courseName": "Course 1",
+            "link": "course1.txt"
+        },
+        {
+            "courseName": "Course 2",
+            "link": "course2.txt"
+        },
+        {
+            "courseName": "Course 3",
+            "link": "course3.txt"
+        },
+        {
+            "courseName": "Course 4",
+            "link": "course4.txt"
+        },
+        {
+            "courseName": "Course 5",
+            "link": "course5.txt"
+        },
+        {
+            "courseName": "Course 6",
+            "link": "course6.txt"
+        },
+        {
+            "courseName": "Course 7",
+            "link": "course7.txt"
+        },
+        {
+            "courseName": "Course 8",
+            "link": "course8.txt"
+        },
+        {
+            "courseName": "Course 9",
+            "link": "course9.txt"
+        },
+        {
+            "courseName": "Course 10",
+            "link": "course10.txt"
+        },
+        {
+            "courseName": "Course 11",
+            "link": "course11.txt"
+        },
+        {
+            "courseName": "Course 12",
+            "link": "course12.txt"
+        },
+        {
+            "courseName": "Course 13",
+            "link": "course13.txt"
+        }
+    ]
+}
