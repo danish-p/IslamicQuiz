@@ -1,4 +1,6 @@
-[
+{
+"NotificationTemplate": [
+
 {
 "to":"",
  
@@ -10,5 +12,19 @@
   "content_available" : true,
   "priority" : "high"
  }
-}
+},
+{
+"to":"",
+ 
+ "data" : {
+  "sound" : "default",
+  "body" :  "test body",
+  "title" : "Hadees",
+  "image" : "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/HadeesIcon.png",
+  "content_available" : true,
+  "priority" : "high"
+ }
+}       
+
 ]
+}
