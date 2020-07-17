@@ -1,0 +1,14 @@
+[
+{
+"to":"fY7WfBCibWE:APA91bGH0bbgyjKubG7l_fe8ef6OWOUpoX39ECoygIaGfW0ODBX3ydfni-_uO2Z3tX70aAKdgMUR8nR0EZuokQga0Y-8wEbsctLlYp2kmrcnXeX3J2p0iz9Hc68Px9noYklTMs2Q3QcS",
+ 
+ "data" : {
+  "sound" : "default",
+  "body" :  "test body",
+  "title" : "Quran",
+  "image" : "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/HadeesIcon.png",
+  "content_available" : true,
+  "priority" : "high"
+ }
+}
+]
