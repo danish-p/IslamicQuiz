@@ -1,69 +1,14 @@
 {
     "CoursesList": [
         {
-            "courseName": "Course 1",
-            "title": "Title",
-            "link": "course1.txt"
-        },
-        {
             "courseName": "Course 2",
-            "title": "Title",
+            "title": "Nafil Namazon Se Mutalliq online Test",
             "link": "course2.txt"
         },
         {
-            "courseName": "Course 3",
-            "title": "Title",
-            "link": "course3.txt"
-        },
-        {
-            "courseName": "Course 4",
-            "title": "Title",
-            "link": "course4.txt"
-        },
-        {
-            "courseName": "Course 5",
-            "title": "Title",
-            "link": "course5.txt"
-        },
-        {
-            "courseName": "Course 6",
-            "title": "Title",
-            "link": "course6.txt"
-        },
-        {
-            "courseName": "Course 7",
-            "title": "Title",
-            "link": "course7.txt"
-        },
-        {
-            "courseName": "Course 8",
-            "title": "Title",
-            "link": "course8.txt"
-        },
-        {
-            "courseName": "Course 9",
-            "title": "Title",
-            "link": "course9.txt"
-        },
-        {
-            "courseName": "Course 10",
-            "title": "Title",
-            "link": "course10.txt"
-        },
-        {
-            "courseName": "Course 11",
-            "title": "Title",
-            "link": "course11.txt"
-        },
-        {
-            "courseName": "Course 12",
-            "title": "Title",
-            "link": "course12.txt"
-        },
-        {
-            "courseName": "Course 13",
-            "title": "Title",
-            "link": "course13.txt"
+            "courseName": "Course 1",
+            "title": "Hisnul Muslim (Zikr-O-Azkaar) Se Mutalliq Online Test",
+            "link": "course1.txt"
         }
     ]
 }
