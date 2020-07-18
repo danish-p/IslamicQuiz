@@ -32,7 +32,7 @@
   "sound" : "default",
   "body" :  "Read and Share Hadees In Urdu, Hindi & English",
   "title" : "Hadees",
-  "image" : "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees19.png",
+  "image" : "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees19.jpg",
   "content_available" : true,
   "priority" : "high"
  }
