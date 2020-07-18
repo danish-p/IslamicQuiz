@@ -2,9 +2,9 @@
 "UsersList": [
   {
     "name":"ejazahmedshaikh0702@gmail.com",
-    "token":"eKs1eyBo_cU:APA91bF_zdRyNgJLUDiKxE5---fnSdV2WFQ1igeKyrX06wp1376NqQ0a0fymCqG0CC6kfciQQ0-n97_9RBFcdEX6TnnzLFPN41qGNGJkLtZGIpwPwg8Tl6zGoKIkbWVTgvLIksGbahAP
-At 1595065312847",
-    "score":"0"
+    "token":"eKs1eyBo_cU:APA91bF_zdRyNgJLUDiKxE5---fnSdV2WFQ1igeKyrX06wp1376NqQ0a0fymCqG0CC6kfciQQ0-n97_9RBFcdEX6TnnzLFPN41qGNGJkLtZGIpwPwg8Tl6zGoKIkbWVTgvLIksGbahAP",
+
+"score":"0"
   },
   {
     "name":"zaheer3115@gmail.com",
