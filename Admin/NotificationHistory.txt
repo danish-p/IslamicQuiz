@@ -6,9 +6,9 @@
  
  "data" : {
   "sound" : "default",
-  "body" :  "test body",
-  "title" : "Quran",
-  "image" : "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/HadeesIcon.png",
+  "body" :  "Now Listen Quran Tafseer By Maulana Dr. Israr Ahmed",
+  "title" : "Quran-Tafseer",
+  "image" : "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg",
   "content_available" : true,
   "priority" : "high"
  }
@@ -18,13 +18,61 @@
  
  "data" : {
   "sound" : "default",
-  "body" :  "test body",
-  "title" : "Hadees",
-  "image" : "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/HadeesIcon.png",
+  "body" :  "Now Listen Quran With Meanings",
+  "title" : "Quran",
+  "image" : "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Deeniyatbg.jpg",
   "content_available" : true,
   "priority" : "high"
  }
-}       
+},
+{
+"to":"",
+ 
+ "data" : {
+  "sound" : "default",
+  "body" :  "Read and Share Hadees In Urdu, Hindi & English",
+  "title" : "Hadees",
+  "image" : "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees19.png",
+  "content_available" : true,
+  "priority" : "high"
+ }
+},       
+{
+"to":"",
+ 
+ "data" : {
+  "sound" : "default",
+  "body" :  "Not Yet Tried Deeniyat Quiz? Attempt and Learn",
+  "title" : "Quiz",
+  "image" : "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees19.png",
+  "content_available" : true,
+  "priority" : "high"
+ }
+},
+{
+"to":"",
+ 
+ "data" : {
+  "sound" : "default",
+  "body" :  "Are You Not Good In Numbers? Don't Worry Click To Check Deeniyat Tasbeeh",
+  "title" : "Tasbeeh",
+  "image" : "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees19.png",
+  "content_available" : true,
+  "priority" : "high"
+ }
+},
+{
+"to":"",
+ 
+ "data" : {
+  "sound" : "default",
+  "body" :  "Custom-Body",
+  "title" : "Custom-title",
+  "image" : "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/Hadees19.png",
+  "content_available" : true,
+  "priority" : "high"
+ }
+}
 
 ]
 }
