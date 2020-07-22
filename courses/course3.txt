@@ -1,0 +1,94 @@
+{
+"Course 3": [
+        {
+            "question": "Kya Wuzu Se Pehle Miswak karna Sunnat Hai ya Wajib..??",
+            "optionA": "Wajib hai",
+            "optionB": "Sunnat hai",
+            "optionC": "A & B Do bhi Nahi",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Wuzu se pahle miswak karna mustahab hai.Rasool’Allah sallallaho alaihi wasallam ka irshaad hai\r\n\r\n\" Agar mujhe meri ummat ki mushaqqat wa takleef ka andesha na hota to mai har namaz ke sath miswak karne ka hukm(wajoobi taur par) deta.\r\n(Sahih Bukhari, 887) (Sahih Muslim, 1252)\r\n\r\nHuzaifa Radiallahu anhu se rivayat hai ki Rasool'Allah Sallallahu Alaihi Wasallam jab tahajjud ke liye uthte to miswak se apna muh saaf farmate.\"\r\n\r\n(Sahih Bukhari, 245) (Sahih Muslim, 255)"
+        },
+        {
+            "question": "Wuzu Karne Se Pehle Kya Padhna Chahiye..??",
+            "optionA": "Alhamdulillah",
+            "optionB": "Allahu Akbar",
+            "optionC": "Bismillah",
+            "optionD": "Laailaha Illalah",
+            "answer": "optionC",
+            "feedback": "Bismillah kyunki Rasool’Allah sallallaho alaihi wasallam ka irshaad hai :\r\n\r\n\" jo shaks wuzoo ke waqt Allah ka naam nahi leta uska wuzoo nahi hota. \"\r\n\r\n(Abu Dawood, 101) (Ibn Majah, 399) (Ahmad 30/41) (Hakim, 1/147)"
+        },
+        {
+            "question": "Wuzu Mein Kulli Karne se Pehle kya karna chahiye..??",
+            "optionA": "Chehre ko Dhona chahiye",
+            "optionB": "Dono hateliyan (palms) Dhona Chahiye",
+            "optionC": "Naak Mein Paani Chadana Chahiye",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Prophet Said : “When anyone amongst you wakes up from sleep, he must not put his hand in the vessel until he has washed it three times, for he does not know where his hand was during the night.” [All books of hadith have mentioned this hadith, except that in Saheeh Bukhari this hadith has been mentioned without the mention of the number (three). Tirmidhi and Ibn Majah have recorded this hadith with the additional words, “When anyone amongst you wakes up from the night.”]\r\n\r\n[RECORDED IN SAHEEH MUSLIM (BOOK OF PURIFICATION) 541, CHAPTER ON, “IT IS UNDESIRABLE FOR THE ONE WHO PERFORMS WUDHU OR ANYONE BESIDES HIM TO PUT HIS HAND IN THE VESSEL UNTIL WASHING IT THRICE”]"
+        },
+        {
+            "question": "Wuzu mein Sar ko Masah Kitne Martaba Kiya Jaye..??",
+            "optionA": "4",
+            "optionB": "2",
+            "optionC": "1",
+            "optionD": "5",
+            "answer": "optionC",
+            "feedback": "It was narrated that 'Abd Khair said:\r\n\r\n\"We came to 'Ali bin Abi Talib, may Allah be pleased with him, and he had prayed. He called for water and we said: 'What is he going to do with it when he has (already) prayed? He only wants to teach us.' A vessel of water and a basin were brought to him. He poured some water onto his hand and washed it three times, then he rinsed his mouth and nose three times from the hand with which he took the water. Then he washed his face three times, and he washed his right hand three times, and his left hand three times, and wiped his head once, then he washed his right foot three times and his left foot three times. Then he said: 'Whoever would like to learn how the Messenger of Allah (ﷺ) did Wudu', this is it.'\"\r\n\r\nSahih (Darussalam) Sunan an-Nasa'i 92"
+        },
+        {
+            "question": "Kya Wazu Karte waqt Daadhi ka Khilal Karna Sahih Hadees Se Sabit hai..??",
+            "optionA": "Sabit Nahi",
+            "optionB": "Sabit Hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "“Whenever the Messenger of Allah performed ablution, he took a handful of water, and putting it under his chin, made it go through his beard, saying: „Thus did my Lord command me.‟\r\n\r\n[NARRATED BY ANAS MEANS BIN-MAALIK RECORDED IN ABU DAWOOD, AUTHENTICATED (SAHEEH) BY ALBANI IN SAHEEH ABU-DAWOOD: 132]"
+        },
+        {
+            "question": "Wuzu Karte Waqt Kitne Martaba chehre ko dhona Masnoon hai..??",
+            "optionA": "3",
+            "optionB": "1",
+            "optionC": "5",
+            "optionD": "7",
+            "answer": "optionA",
+            "feedback": "Phir teen martabah chehre ko dhoye, chaudaai me kaan se lekar (dusre) kaan tak aur lambaai me baalo ke ugne ki jagah se dadhi ke nichle hisse tak.\r\n\r\n(Sahih Muslim, 235)"
+        },
+        {
+            "question": "Kaano ka Masah_____Martabah kare, shahadat ki ungli se kaan ke Andurooni hisse ka masah kare aur Anguthe se kaan ke baheri hisse ka.",
+            "optionA": "3",
+            "optionB": "1",
+            "optionC": "5",
+            "optionD": "7",
+            "answer": "optionB",
+            "feedback": "Kaano ka masah bhi ek martabah kare, shahadat ki ungli se kaan ke andurooni hisse ka masah kare aur anguthe se kaan ke baheri hisse ka.\r\n\r\n(Ibn Majah, 439) (Tirmizi, 361)"
+        },
+        {
+            "question": "Kya Kaano ke Maseh ke liye alag se pani lena Sahih hadees se sabit hai..??",
+            "optionA": "Sabit Hai",
+            "optionB": "Sabit Nahi",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "-"
+        },
+        {
+            "question": "Kya Wuzu Mein Teen se zyada baar dhona Jaiz Hai..??",
+            "optionA": "Jaiz hai",
+            "optionB": "Jaiz Nahi",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "-"
+        },
+        {
+            "question": "Wazu Ke Baad Kya Dua Padhni Chahiye..?",
+            "optionA": "Darood Shareef",
+            "optionB": "Ashhadu an laa ilaaha ill-Allaah wahdahu laa shareeka lah, wa ashhadu anna Muhammadan ‘abduhu was rasooluhu",
+            "optionC": "Laailaha Illalah Mohammadur Rasoollulah",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Umar Radiallahu anhu se rivayat hai ki Rasool'Allah Sallallahu Alaihi Wasallam ne farmaya :\r\n\r\nTumme se koi shaks wuzoo kare aur kamil wuzoo kare phir kahe\r\nأَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ\r\n\r\nMai gawahi deta hu ke Allah ke siwa koi mabud barhaq nahi, wo akele hai uska koi shareek nahi aur mai gawahi deta hu Mohammad sallallaho alaihi wasallam uske bande aur uske Rasool hai\r\n\r\n(Sahih Muslim, 234)"
+        }
+    ]
+}
