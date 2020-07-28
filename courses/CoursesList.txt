@@ -1,6 +1,11 @@
 {
     "CoursesList": [
         {
+            "courseName": "Course 4",
+            "title": "Sone Ke Aadab Aur Sone Se Pehle Ke Azkaar Se Mutalliq Test",
+            "link": "course4.txt"
+        },
+        {
             "courseName": "Course 3",
             "title": "Wuzu Ka Masnoon Tareeqa Se Mutalliq Test",
             "link": "course3.txt"
