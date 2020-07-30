@@ -1,0 +1,94 @@
+{
+"Course 5": [
+        {
+            "question": "Har Farz Namaz ke Baad Kitne Martaba \" Allahu Akbar\" Padhna Chahiye...??",
+            "optionA": "3",
+            "optionB": "1",
+            "optionC": "5",
+            "optionD": "7",
+            "answer": "optionB",
+            "feedback": "Saheeh Bukhari : 842"
+        },
+        {
+            "question": "Har Farz Namaz Ke Baad Kitne Martaba \"Astaghfirullah\" Padhna Chahiye..??",
+            "optionA": "1",
+            "optionB": "7",
+            "optionC": "3",
+            "optionD": "5",
+            "answer": "optionC",
+            "feedback": "Saheeh Muslim : 591"
+        },
+        {
+            "question": "Har Farz Namaz ke Baad \"Astaghfirullah\" Padhne Ke Baad Kounsa Zikr Padhna Chahiye..??",
+            "optionA": "Allahu Akbar",
+            "optionB": "Subhan Allah 33, Alhamdulillah 33,Allahu Akbar33",
+            "optionC": "Laa iLaaha iLLaL Laahu, Wahdahu Laa Shareeshu, LahuL muLku waLahuL hamdu Wahu wa ALaa KuLLi shayin Qadeer",
+            "optionD": "Allahumma Antas Salaam wa Minkas Salaam TabarakTa Yaa ZaL jaLaaLi waL ikraam",
+            "answer": "optionD",
+            "feedback": "Thauban reported:\r\n\r\nWhen the Messenger of Allah (ﷺ) finished his prayer. He begged forgiveness three times and said: O Allah! You are Peace, and peace comes from You; Blessed are You, O Possessor of Glory and Honour. Walid reported: I said to Auza'i: How is the seeking of forgiveness? He replied: You should say: I beg forgiveness from Allah, I beg forgiveness from Allah.\"\r\n\r\nSahih Muslim 591"
+        },
+        {
+            "question": "Allahumma Antas Salaam Ki Dua Ke Baad Kitne Martaba : \"Laa iLaaha iLLaL Laahu, Wahdahu Laa Shareeka Lahu, LahuL muLku waLahuL hamdu Wahu wa ALaa KuLLi shayin Qadeer\" Padhna Chahiye..??",
+            "optionA": "5",
+            "optionB": "2",
+            "optionC": "3",
+            "optionD": "7",
+            "answer": "optionC",
+            "feedback": "3 Martaba Padhna Chahiye.\r\n\r\nNote : English Translation Mein \"3 Martaba\" ka lafz Mein Galati Hua hai Isliye Aap Arabic Matan Padhen Jisme 3 Martaba Ka lafz hai 👇\r\n\r\nحَدَّثَنَا عَلِيُّ بْنُ مُسْلِمٍ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا غَيْرُ، وَاحِدٍ، مِنْهُمْ مُغِيرَةُ وَفُلاَنٌ وَرَجُلٌ ثَالِثٌ أَيْضًا عَنِ الشَّعْبِيِّ عَنْ وَرَّادٍ كَاتِبِ الْمُغِيرَةِ بْنِ شُعْبَةَ أَنَّ مُعَاوِيَةَ كَتَبَ إِلَى الْمُغِيرَةِ أَنِ اكْتُبْ إِلَىَّ بِحَدِيثٍ سَمِعْتَهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ فَكَتَبَ إِلَيْهِ الْمُغِيرَةُ أَنِّي سَمِعْتُهُ يَقُولُ عِنْدَ انْصِرَافِهِ مِنَ الصَّلاَةِ ‏\r\n\r\n‏ لاَ إِلَهَ إِلاَّ اللَّهُ، وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهْوَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ ‏\"\r\n\r\n‏‏‏ ثَلاَثَ مَرَّاتٍ قَالَ وَكَانَ يَنْهَى عَنْ قِيلَ وَقَالَ وَكَثْرَةِ السُّؤَالِ، وَإِضَاعَةِ الْمَالِ، وَمَنْعٍ وَهَاتِ، وَعُقُوقِ الأُمَّهَاتِ، وَوَأْدِ الْبَنَاتِ‏‏ وَعَنْ هُشَيْمٍ أَخْبَرَنَا عَبْدُ الْمَلِكِ بْنُ عُمَيْرٍ قَالَ سَمِعْتُ وَرَّادًا يُحَدِّثُ هَذَا الْحَدِيثَ عَنِ الْمُغِيرَةِ عَنِ النَّبِيِّ صلى الله عليه وسلم‏‏\r\n\r\nSahih al-Bukhari 6473\r\n\r\nSaheeh Bukhari : 6473 - Nasai : 1343 - Musnad Ahmed : 4 : 250"
+        },
+        {
+            "question": "Allahumma Laa Maani'A Lima A'taita, Wala Mu'tiya Lima Mana'ta, Wala yanfa'oo ZaL jaddi MinkaL Jadd\": Kya Ye Dua Har FarZ Namaz ke Baad Padhna Sahih Hadees se Sabit Hai..??",
+            "optionA": "Sabit Nahi",
+            "optionB": "Sabit hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Saheeh Bukhari : 844 - Saheeh Muslim : 593 - Abu Dawood : 1505 - Sunan Nasai : 1341"
+        },
+        {
+            "question": "Wo Kaunse Kalimat Hain Jo Har Farz Namaz Ke Baad Padhne Se Usko Jannat Me Jane Se Maut Ke Siwa Koi Cheez Nahi Rok Sakti..?? ",
+            "optionA": "Sayyidul Isaghfar",
+            "optionB": "Surah Fatiha 3 baat",
+            "optionC": "Ayatul Kursi",
+            "optionD": "Laa iLaaha iLLaL Laahu, Wahdahu Laa Shareeka Lahu, LahuL muLku waLahuL hamdu Wahu wa ALaa KuLLi shayin Qadeer",
+            "answer": "optionC",
+            "feedback": "Sunan Nasai AL Kubra : 9928, AmaL AL Yaum WaL Shaikh LaiLah : by Nasai : 110 Shaykh ALbani rahimahullah ne isey SAHEEH Qarar diya hai (As Sahiha 2:697"
+        },
+        {
+            "question": "Fajr aur Maghrib Namazon ke Baad Kitne Martaba : \"Laa iLaaha iLLaL Laahu, Wahdahu Laa Shareeka Lahu, LahuL muLku waLahuL hamdu Yuhyi wa yu meetu Wahu wa ALaa KuLLi shayin Qadeer\": Padhna Hai..??",
+            "optionA": "3",
+            "optionB": "7",
+            "optionC": "10",
+            "optionD": "5",
+            "answer": "optionC",
+            "feedback": "Sunan Tirmizi : 3534 - Musnad Ahmed : 4/247, Shaikh Zubair ALi Zai rahimahullah ne isey HASAN Qarar diya hai."
+        },
+        {
+            "question": "Allahumma inni AsALuka iLman Naafi'An waRizqan Tayyiban wa AmaLan MutaqabbaLaa\": Ye Dua Kounsi Farz Namaz Padhna Masnoon Hai..?? ",
+            "optionA": "Asar Namaz Ke Baad",
+            "optionB": "Maghrib Namaz Ke Baad",
+            "optionC": "Fajr Namaz ke Baad",
+            "optionD": "Isha Namaz ke Baad",
+            "answer": "optionC",
+            "feedback": "It was narrated from Umm Salamah that when the Prophet (ﷺ) performed the Subh (morning prayer), while he said the Salam, he would say:\r\n\r\n\"Allahumma inni as'aluka \"ilman nafi'an, wa rizqan tayyiban, wa \"amalan mutaqabbalan (O Allah, I ask You for beneficial knowledge, goodly provision and acceptable deeds).'\"\r\n\r\nSahih By Shaykh Albany (Darussalam)\r\n\r\nEnglish : Vol. 1, Book 5, Hadith 925\r\nArabic : Book 5, Hadith 978\r\nSunan Ibn Majah"
+        },
+        {
+            "question": "Kya Har FarZ Namaz Ke Baad Al-Mu'awwidhatain (Surah al-Falaq & Surah an-Nas) Padhna Sahih Hadees Se Sabit Hai..??",
+            "optionA": "Sabit Nahi",
+            "optionB": "Sabit hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Narrated 'Uqbah bin 'Amir:\r\n\r\n\"The Messenger of Allah (ﷺ) ordered me to recite Al-Mu'awwidhatain at the end of every Salat.\"\r\n\r\nHasan (Darussalam)\r\n\r\nEnglish : Vol. 5, Book 42, Hadith 2903\r\nArabic : Book 45, Hadith 3150\r\nJamiat Tirmidhi\r\n\r\nTirmizi : 2903 - Arbaoon by ibn Asaakir : ( pg : 83 ), AL Awsat Li ibn Munzir : (3:277) - Shaikh ALbani rahimahullah ne Saheeh Kaha hai (As Sahiha : 1514"
+        },
+        {
+            "question": "Baaz Log Har Farz Namaz ke Baad Fouran Mathe Par Hath Rakhkar Dua Padhte Hai : Kya Aisa Karna Koyi Sahih Hadees se Sabit Hai...??",
+            "optionA": "Sabit Nahi",
+            "optionB": "Sabit hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionA",
+            "feedback": "-"
+        }
+    ]
+}
