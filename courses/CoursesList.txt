@@ -1,6 +1,11 @@
 {
     "CoursesList": [
         {
+            "courseName": "Course 6",
+            "title": "Sabse Afzal Aamal Se Mutalliq Online Test PART 1",
+            "link": "course6.txt"
+        },
+        {
             "courseName": "Course 5",
             "title": "Farz Namazo Ke Baad Azkaar Se Mutalliq Test",
             "link": "course5.txt"
