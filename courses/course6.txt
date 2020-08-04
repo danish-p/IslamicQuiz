@@ -1,0 +1,94 @@
+{
+"Course 6": [
+        {
+            "question": "Behtareen Umr Daraaz Koun Hai..??",
+            "optionA": "jis ki umar lambi ho aur amal bhi achha ho.",
+            "optionB": "jis ki umar Choti ho aur Amal Achha ho.",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionA",
+            "feedback": "Allah ke Rasool ﷺ ne farmaya: Logon mein sab se behtareen shakhs woh hai jis ki umar lambi ho aur amal bhi achha ho. [Musnad Ahmad, Tirmizi"
+        },
+        {
+            "question": "Tamam Aamaal mein sab se afzal amal Kounsa Hai..??",
+            "optionA": "Hajj",
+            "optionB": "Roza",
+            "optionC": "Zakat",
+            "optionD": "Ek Allah Par Eeman Lana",
+            "answer": "optionD",
+            "feedback": "Allah ke Rasool ﷺ ne farmaya: Tamam aamaal mein sab se afzal amal ek Allah par imaan lana hai. [Ibne Hibban, Musnad Ahmad]"
+        },
+        {
+            "question": "Aamaal mein sab se Khairul Amal Kounsa Hai..??",
+            "optionA": "Namaz",
+            "optionB": "Roza",
+            "optionC": "Roza",
+            "optionD": "Hajj",
+            "answer": "optionA",
+            "feedback": "Allah ke Rasool ﷺ ne farmaya: Achchi terha jaan lo ki tumhare aamaal mein sab se behtareen amal namaz hai. [Musnad Ahmad, Ibne Majah, Haakim, baihaqi, Tabaraani]"
+        },
+        {
+            "question": "Auraton ki Behtareen Namaz Kahan hai..??",
+            "optionA": "Masjid",
+            "optionB": "Ghar Mein",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Allah ke Rasool ﷺ ne farmaya: Aurton ki behtareen namaz woh hai jo ghar ke androoni hisse mein ada ki jaye. [Tabaraani]"
+        },
+        {
+            "question": "Quran mein sab se afzal surah Kounsi Hai..??",
+            "optionA": "Surah Baqara",
+            "optionB": "Surah Ikhlas",
+            "optionC": "Surah Fatiha",
+            "optionD": "Surah Muzammil",
+            "answer": "optionC",
+            "feedback": "Allah ke Rasool ﷺ ne farmaya: Quran mein sab se afzal (surah) } َﲔِﻤَﻟﺎَﻌﻟا ِّبَر ِﱠِ ُﺪْﻤَﳊا{ (yani surah fatiha) hai. [Haakim, shoabul iman]"
+        },
+        {
+            "question": "Qur’an ki Sab se Afzal Aayat Kounsi Hai..??",
+            "optionA": "Surah Baqara ki Aakhiri 3 Aayatien",
+            "optionB": "Ayatul Kursi",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Ubai bin kaab se rivayet hai, farmate hain: Allah ke Rasool ne farmaya: aye abu munzir! Tumahare paas qur’an ki sab se azeem aayat kaun si hai? Mein ne kaha: Allah aur us ka Rasool hi behtar jante hain. Aap ne phir farmaya: Aye abu munzir! Tumahre paas Quran ki sab se azeem aayat kaun si hai? Mein ne kaha: } ُمﻮﱡﻴَﻘْﻟا ﱡﻲَْﳊا َﻮُﻫ ﱠﻻِإ َﻪَﻟِإ َﻻ ُﱠا{ (yani Aayatul Kursi). Is par Aap ne mera seenah thap-thapaya aur farmaya: aye abu munzir tumhe tumhara ilm mubarak ho.\r\n\r\n[Abu Dawood]"
+        },
+        {
+            "question": "Sabse Afzal Ibaadat Kounsi Hai..??",
+            "optionA": "Nafil Roze",
+            "optionB": "Dua",
+            "optionC": "Sadaqa",
+            "optionD": "Hajj",
+            "answer": "optionB",
+            "feedback": "Allah ke Rasool ﷺ ne farmaya: Sab se afzal ibadat dua hai. [Haakim, Al Kaamil li Ibne Adi]"
+        },
+        {
+            "question": "Sabse Afzal Zikr Kounsa hai...??",
+            "optionA": "Alhamdulillah",
+            "optionB": "Allahu Akbar",
+            "optionC": "Astagfirullah",
+            "optionD": "Laa ilaaha ill-Allah",
+            "answer": "optionD",
+            "feedback": "Allah ke Rasool ﷺ ne farmaya: Sab se afzal zikr ﷲا ﻻإ ﻪﻟإ ﻻ hai aur sab se afzal dua ﷲ ﺪﻤﺤﻟا hai. [Tirmizi, nasai, Ibne Majah, Ibne Hibban, Haakim"
+        },
+        {
+            "question": "Sabse Afzal Nabi Koun Hai..??",
+            "optionA": "Eesa A.S",
+            "optionB": "Ibraheem A.s",
+            "optionC": "Moosa A.s",
+            "optionD": "Mohammadﷺ",
+            "answer": "optionD",
+            "feedback": "Allah ke Rasool ﷺ ne farmaya: Mein Qiyamat ke din bani aadam ka sardar hoon aur mujhe is par fakhr nahin. (us din) hamd ka jhanda mere hi haath mein hoga aur mujhe is par koi fakhr nahin. Jo bhi Nabi hoga - chahe aadam hon ya koi aur - sab mere hi jhande taley honge. [Musnad Ahmad, Tirmizi, Ibne Majah]"
+        },
+        {
+            "question": "sab se zyada suni jaane wali dua kaun si hai...?",
+            "optionA": "Raat Ki Waqt Ki Dua",
+            "optionB": "Farz Namazon Ki Baad Ki Dua",
+            "optionC": "A&B Do Bhi Sahih",
+            "optionD": "null",
+            "answer": "optionC",
+            "feedback": "Abu Umama se riwayet hai: Allah ke Rasool ﷺ Se poochha gaya: Aye Allah ke Rasool, sab se zyada suni jaane wali dua kaun si hai? Aap ne farmaya: raat ke waqt ki dua aur farz namazon ke baad ki dua. [Tirmizi, Nasai alkubra"
+        }
+    ]
+}
