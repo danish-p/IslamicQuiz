@@ -1,6 +1,11 @@
 {
     "CoursesList": [
         {
+            "courseName": "Course 7",
+            "title": "Sabse Afzal Aamal Se Mutalliq Online Test PART 2",
+            "link": "course7.txt"
+        },
+        {
             "courseName": "Course 6",
             "title": "Sabse Afzal Aamal Se Mutalliq Online Test PART 1",
             "link": "course6.txt"
