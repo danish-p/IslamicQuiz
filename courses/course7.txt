@@ -1,0 +1,94 @@
+{
+ "Course 7": [
+        {
+            "question": "Naamo Mein Behtareen Naam Kounsa hai..??",
+            "optionA": "Ali",
+            "optionB": "Abdullah",
+            "optionC": "Abdur Rahman",
+            "optionD": "B&C Do Bhi Sahih",
+            "answer": "optionD",
+            "feedback": "Allah ke Rasool ﷺ ne farmaya: Tumhare naamon mein Allah ta’ala ke nazdeek sab se mehboob tareen naam Abdullah aur Abdur-Rrahman hain.\r\n\r\nMuslim"
+        },
+        {
+            "question": "Libaas ka Behtareen Rang Kounsa Hai..??",
+            "optionA": "Hara",
+            "optionB": "Kala",
+            "optionC": "Safed",
+            "optionD": "Laal",
+            "answer": "optionC",
+            "feedback": "Libaas ka Behtareen Rang Allah ke Rasool ﷺ ne farmaya: Safaid rang ka libaas pehna karo, use apne zindon ko bhi pehnao aur murdon ko bhi usi mein kafan do, is liye ki yeh tumhara behtareen libaas hai.\r\n\r\n[Musnad Ahmad, nasai, Haakim]"
+        },
+        {
+            "question": "Jannati Aurton mein sab se afzal Aurat Koun Hai..??",
+            "optionA": "Firoun Ki biwi Asiya",
+            "optionB": "Fatima R.a",
+            "optionC": "Khadeeja R.a",
+            "optionD": "All of Above",
+            "answer": "optionD",
+            "feedback": "Allah ke Rasool ﷺ ne farmaya: Jannati aurton mein sab se afzal aurtain Khadija binte khuwailid, Fatima binte Muhammad, Maryam binte Imran aur Firaon ki biwi asiya binte muzahim hain. \r\n\r\n[Musnad Ahmad, Tabaraani, Haakim]"
+        },
+        {
+            "question": "Woh Kounsi Kalimat Hai Jo shakhs yaqeen ke sath din mein kahe aur usi din shaam se pehle marjaye to woh jannati hai..??",
+            "optionA": "Ayatul Kursi",
+            "optionB": "Surah Fatiha",
+            "optionC": "Sayyedul Istighfaar",
+            "optionD": "Darood",
+            "answer": "optionC",
+            "feedback": "Shaddad bin Aus l Allah ke Nabi kaho: rivayet karte hain ke: ne farmaya: Sayyidul Istighfaar l yeh hai ki tum is tarha\r\n\r\n،ﺖﻧأ ّﻻإ ﻪﻟإ ﻻ ﰊر ﺖﻧأ ﻢﻬّﻠﻟا ،ﺖﻌﻄﺘﺳا ﺎﻣ كﺪوو كﺪﻬﻋ َ ﺎﻧأو ،كﺪﺒﻋ ﺎﻧأو ﲏَﻘﻠﺧ ءﻮﺑأو ،ﻲﻠ ﻚﺘﻤﻌﻨﺑ ﻚﻟ ءﻮﺑأ ،ﺖﻌﻨﺻ ﺎﻣ ﺮﺷ ﻦﻣ ﻚﺑ ذﻮﻋأ ﱯﻧﺬﺑ ﻚﻟ ﺖﻧأ ّﻻإ بﻮﻧﺬﻟا ﺮﻔﻐﻳ ﻻ ﻪﻧﺈﻓ ،ﱄ ﺮﻔﻏﺎﻓ\r\n\r\n(Aye Allah tu hi mera Rabb hai, tere siwa koi bhi ibadat ke laiq nahin. Tu ne mujhe paida kiya aur mein tera hi bandah hoon. Main apni istitaa'at ke mutabiq tere ahed aur waade par hoon. Main apne kiye hue har (burey) amal ke shar se teri panah mangta hoon. Tu ne mujhe jo bhi nematen ata ki hain mujhe un sab ka eteraaf hai aur main ne jo bhi gunah kiye hain mujhe un ka bhi eteraaf hai. Pas tu meri maghfirat farma de, is liye ki tere siwa gunaahon ki maghfirat karne wala aur koi nahin.) Jo shakhs yaqeen ke sath din mein yeh kalimaat kahe aur usi din shaam se pehle marjaye to woh jannati hai, aur jo shakhs yaqeen ke sath raat mein yeh kalimaat kahe aur subah hone se pehle mar jaye to woh bhi jannati hai. \r\n\r\n[Bukhari]"
+        },
+        {
+            "question": "Jannat ki Sab Se A’ala Niyamat Kya hai..??",
+            "optionA": "Hoorein",
+            "optionB": "Jannat Ka Phal",
+            "optionC": "Allah Ki Deedar",
+            "optionD": "All of Above",
+            "answer": "optionC",
+            "feedback": "Suhaib se rivayet hai ke: Allah ke Nabi ne farmaya: Jab saare Jannati Jannat mein chale jayen ge to Allah tabarak wa taala un se farmaye ga: kuchh aur chahiye? Woh kahen ge: Kya hamare chehre roshan nahin kar diye ge, kya hamein Jannat mein daakhil nahin kardiya gaya? Kya hamein Jahannam se najaat nahin mil gayi? Is par Hijaab hata diya jaye ga. Pas unhen ata ki gayi nematon mein se koi nemat aisi na hogi jo unhen apne Rabb ke deedar se zyada mehboob ho. Yeh keh kar Allah ke Rasool ﷺ ne yeh aayat tilawat farmai: ةدﺎﻳزو ﲎﺴﺤْﻟا اﻮﻨﺴﺣأ ﻦﻳﺬﻠﻟ Bhalai karne walon ke liye Bhalai hai aur Ziyada hai. \r\n\r\n[Surah Yunus 26] [Muslim]"
+        },
+        {
+            "question": "Jannat ka Sab se A’ala Darja Kounsa Hai .??",
+            "optionA": "Jannatul Mawa",
+            "optionB": "Jannatul Ferdous",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Allah ke Rasool ﷺ ne farmaya: Jannat ke sau (100) darajaat hain. Har do darjon ke darmiyan utna hi fasla hai jitna asmaan aur zameen ke darmiyan hai. Aur Firdaus Jannat ka sab se aa'la darja hai. Yahin se Jannat ki charon naheren jari hoti hain. Is se uper Allah ta’ala ka Arsh hai. Pas tum jab bhi Allah se mango to Jannatul Firdaus hi mango.\r\n\r\n[Musannaf Ibne Abi shaiba, Musnad Ahmad, Tirmizi, Haakim]"
+        },
+        {
+            "question": "Behtareen dawa jis se tum ilaaj karo who hijama hai : Kya Ye Baat Sahih hai..??",
+            "optionA": "Ghalat",
+            "optionB": "Sahih",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Allah ke Rasool ﷺ ne farmaya: Behtareen dawa jis se tum ilaaj karo who hijama hai. \r\n\r\n[Musnad Ahmad, Tabaraani, Haakim]"
+        },
+        {
+            "question": "Behtareen Aurat Koun Hai..??",
+            "optionA": "bahot aulaad paida karne ki salahiyat rakhti ho",
+            "optionB": "Shohar Se Bahut Zyada Mohabbat karne wali",
+            "optionC": "hamdardi karne wali aur shohar ki muwafiqat karne wali ho basharte-ke Allah se darti bhi ho",
+            "optionD": "All of Above",
+            "answer": "optionD",
+            "feedback": "Allah ke Rasool ﷺ ne farmaya: Behtareen aurat woh hai jo bahot aulaad paida karne ki salahiyat rakhti ho, bahot hi mohabbat karne wali, hamdardi karne wali aur shohar ki muwafiqat karne wali ho basharte-ke Allah se darti bhi ho.\r\n\r\n[Baihaqi ]"
+        },
+        {
+            "question": "Behtareen Khazana Kounsa hai..??",
+            "optionA": "Daulat",
+            "optionB": "Nek Dost",
+            "optionC": "Nek Biwi",
+            "optionD": "null",
+            "answer": "optionC",
+            "feedback": "Allah ke Rasool ﷺ ne farmaya: Shukar karne wala dil, zikar karne wali zabaan aur nek biwi jo teri duniya aur deen ke mamlaat mein tera taawun kare yeh un tamam khazanon se behtar hai jin ke jama karne mein log lagey hue hain.\r\n\r\n[Shoabul Iman]"
+        },
+        {
+            "question": "Dinon Mein Sabse Behtar Din Kounsa hai..??",
+            "optionA": "Eid Ul Fitr ka din",
+            "optionB": "Peer Ka din",
+            "optionC": "Jumah Ka din",
+            "optionD": "Jumerat",
+            "answer": "optionC",
+            "feedback": "Allah ke Rasool ﷺ ne farmaya: Sab se behtareen din jis mein suraj tulu hota hai woh jumu’ah ka din hai. Isi din adam paida kiye gaye, Isi din woh Jannat mein dakhil kiye gaye aur Isi din Jannat se nikale gaye.\r\n\r\n[Muslim]"
+        }
+    ]
+}
