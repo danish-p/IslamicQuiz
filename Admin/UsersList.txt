@@ -46,11 +46,6 @@
     "score":"15"
   },
   {
-    "name":"riyazparveen06@gmail.com",
-    "token":"dkjLDFUEjxU:APA91bG4Jx6q2Dfla78Dcawxyu2sv9g_UxEcJ-XVajEpl_cfGFLLEnXF4rj7aZepaRhwYAi47UlcVqY7Eulc519XcVSuanvf7ddy0BFesxO1yaFzOJ9XXHtT335SkPPAEysP8CtNUNFI",
-    "score":"11"
-  },
-  {
     "name":"ejazahmedshaikh0702@gmail.com",
     "token":"eKs1eyBo_cU:APA91bF_zdRyNgJLUDiKxE5---fnSdV2WFQ1igeKyrX06wp1376NqQ0a0fymCqG0CC6kfciQQ0-n97_9RBFcdEX6TnnzLFPN41qGNGJkLtZGIpwPwg8Tl6zGoKIkbWVTgvLIksGbahAP",
 
