@@ -1,0 +1,94 @@
+{
+ "Course 8": [
+        {
+            "question": "Allah Ke Sath Shirk Karne se Uske Nek Amal ka kya Hoga. ? ",
+            "optionA": "Sare Aamal Zaya Hojayenge lekin Aakhirat ke din Nabi ki Shifa'at Se Uske Aamal Qubool Kiye jayenge",
+            "optionB": "Uske Sare Aamal Zaya Hojayenge",
+            "optionC": "Namaz Ke Alawa Sare Aamal Zaya Hojayenge",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "-"
+        },
+        {
+            "question": "Kya Quran hi sirf hamari Rahnumai ke liye kaafi hai...?",
+            "optionA": "Ji Haa.",
+            "optionB": "Nahi. Sunnat bhi Hamare liye Rehnumayi",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Hargiz nahi, balke Quran ke saath hamare liye sunnat ki bhi rahnumai zaroori hai\r\n\r\nNabiﷺ ne farmaya, : { هعم هلثمو ٌارقلا تيتوا يىإ لاا} ‘Yaad rakho! Mujhe Quran diya gaya aur usi ke saath usi jaisi Hadees bhi.’ [MUSNAD AHMAD:sahih 17174]"
+        },
+        {
+            "question": "Qurbani kis ke liye jayez hai..?",
+            "optionA": "Allah Ke Liye",
+            "optionB": "Nabi Ke Liye",
+            "optionC": "A&B",
+            "optionD": "null",
+            "answer": "optionA",
+            "feedback": "Qurbani sirf Allah ke liye jayez hai. Qurbani ke zariye gairullah ka taqarrub hasil karna jayez nahi hai.\r\n\r\nNabi ﷺ ne farmaya: { اللّ ریغل حبذ ًم اللّ ًعل} “Allah ki laanat hai us shaks par jo gairullah ke liye janwar zabah kare”. [SAHIH MUSLIM: 3/1567]"
+        },
+        {
+            "question": "Ibadat ki qubuliyat ki kitni shartein hain..?",
+            "optionA": "3",
+            "optionB": "5",
+            "optionC": "2",
+            "optionD": "6",
+            "answer": "optionC",
+            "feedback": "Ibadat ki Qubuliyat ki do shartein hain.\r\n\r\n1-Ikhlaas: Allah taala ka farman hai: { صلاخلا ًیدلا للہ لاا} “Sun lo! Deen Allah hi ke liye khalis hai.” [QURAN: Surah AZ ZUMAR: 3]\r\n\r\n2-Shariat ke muwafiq ho: Nabi ﷺ ne farmaya: [ دز وہف ہيم سیل ام اذہ اىرما یف ثدحا ًم ] “Jis ne hamare is deen me nayi baat paida ki jiska usse taalluq nahi hai to wo mardood hai.” [SAHIH MUSLIM: 1718]"
+        },
+        {
+            "question": "Kya Eeman Ghatta hai Aur badhta hai..?",
+            "optionA": "Nahi",
+            "optionB": "Ha",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Ulamaye salaf ka ye maoqif hai ke momin bande ke iman me halaat aur waqiyat ki wajah se kami beshi hoti rahti hai. Allah ka irshad hai: :{ ۔ ] ۲ :لافىلاا[ ٌولكوتي ههبز ىلعو اىانيإ ههتداز هتايا ههيلع تيلت اذإو ] “Jab Allah ki aayat un ke saamne padhi jati hain to un ka iman badh jata hai.” QURAN: SURAH AL ANFAL: 2]"
+        },
+        {
+            "question": "Arkan-e-Eeman kitne hain..??",
+            "optionA": "5",
+            "optionB": "6",
+            "optionC": "7",
+            "optionD": "3",
+            "answer": "optionB",
+            "feedback": "Arkan e iman (6) cheehen hain.\r\n1. Allah par iman\r\n2. Farishton par iman\r\n3. Kitabon par iman\r\n4. Rasoolon par iman\r\n5. Aakhirat par iman\r\n6. Achi Aur Buri Taqdeer par iman"
+        },
+        {
+            "question": "Kya Aql islami Aqeede ki bunyad ho sakti hai..? ",
+            "optionA": "Ji Haa.",
+            "optionB": "Nahi",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Aql islami aqeede ki bunyad nahi ho sakti kyunke Ahle bidat ne apne aqeede wa iman ki bunyad aqal par rakhi aur deen ya sunnat ki payervi ko apni naqis aql ke tabaey kar diya. Aur Ahle Sunnat ne apni aql aur payervi ko deen ke tabaey kar diya. Albatta sahi aql kabhi bhi saabit shuda Islami aqaid ki mukhalif nahi ho sakti. Albatta ye ho sakta hai ki woh unki haqiqat tak na pahonch paye apni kamzori ki wajah se."
+        },
+        {
+            "question": "Niche Diye gaye Options Mein Kounsa Kufriyah Alfaz hai..??",
+            "optionA": "Allah Ko Bura Bhala Kehna",
+            "optionB": "Allah ka Mazak Udana",
+            "optionC": "Nabi Ko Bura Bhala Kehna",
+            "optionD": "All of above",
+            "answer": "optionD",
+            "feedback": "Kufriya alfaz: Allah ko bura bhala kahna, Islam ko bura bhala kahna, farishton ko bura bhala kahna, nabi ko bura bhala kahna, Allah ka mazak udana."
+        },
+        {
+            "question": "Niche Diye gaye sawalaton me kaun sa sawal Qabr me kiya jayega..??",
+            "optionA": "Tumhara Rabb Koun hai",
+            "optionB": "Tumhara Deen kya hai",
+            "optionC": "Tumhara Nabi Koun hai",
+            "optionD": "All of above",
+            "answer": "optionD",
+            "feedback": "-"
+        },
+        {
+            "question": "Eeman ka Shar'ee Maa'na kya Hai..??",
+            "optionA": "Zuban Se Iqraar Karna",
+            "optionB": "Dil Se Tasdeeq Karna",
+            "optionC": "Us Par Amal karna.",
+            "optionD": "All of above",
+            "answer": "optionD",
+            "feedback": "Eeman ka Maana : Zaban se l iqrar karna, dil se tasdeeq karna aur us par amal karne ka naam iman hai."
+        }
+    ]
+}
