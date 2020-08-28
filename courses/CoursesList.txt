@@ -1,6 +1,11 @@
 {
     "CoursesList": [
         {
+            "courseName": "Course 9",
+            "title": "Dua Se Mutalliq Online Test",
+            "link": "course9.txt"
+        },
+        {
             "courseName": "Course 8",
             "title": "Aqeedah Se Mutalliq Online Test",
             "link": "course8.txt"
