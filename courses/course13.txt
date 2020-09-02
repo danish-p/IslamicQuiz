@@ -1,0 +1,94 @@
+{
+"Course 13": [
+        {
+            "question": "Nikah Ke Liye Bewa Aurat Ki \"Zubani\" Ijazat Lena Zaruri Hai Ya Khamoshi Hi Kaafi Hai..??",
+            "optionA": "Khamoshi Ijazat Kafi Hai",
+            "optionB": "Ji. Zubani Ijazat Lena Zaroori Hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Aapﷺ ne farmaaya ke bewah aurat ka nikah us waqt tak na kiya jaaye jab tak us ki ijazat na li jaaye aur kunwari aurat ka nikah us waqt tak na kiya jaaye jab tak us ki ijazat na mil jaaye\r\nsahaba ne kaha ke ya rasool ﷺ kunwari aurat azan q na kar degi Aapﷺ ne farmaaya ke is surat ye hai ke wo khamoosh rahe jaye. ye khamoshi iska azan samjhi jaaye\r\n\r\nSahih Bukhari 5136"
+        },
+        {
+            "question": "Kya Nikah Me Ladki Ko Maher Dena Ladke Ke Liye Wajib Hai..??",
+            "optionA": "Wajib Nahi. Mustahab hai",
+            "optionB": "Wajib hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "aur aurton ko inn/unn kay mahar khushi say diya kero . haan ! agar woh khud iss/uss ka kuch hissa khush dili say chorr den tu ussay/issay khushgawari aur mazay say khalo .\r\n\r\nSurat-ul-Nissa 4"
+        },
+        {
+            "question": "Kya Nikah Ka Elan Karna Mustahab Hai..??",
+            "optionA": "Ji hai",
+            "optionB": "Mustahab Nahi hai.",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionA",
+            "feedback": "-"
+        },
+        {
+            "question": "Kya Nikah Mein Nikah Ki Mubarak Baadi Dena Jaiz Hai..??",
+            "optionA": "Mubarak Baadi Dena Jaiz nahi",
+            "optionB": "Mubarak Baadi Dena Jaiz hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Aapﷺ jab kisi shaksh ko shaadi ki mubarakbaad dete to farmaate : Allah tala tum ko barkat de aur is barkat ko kayam rakhe aur tum dono ko khair par jama kar de\r\n\r\nAbu-Dawood 2130"
+        },
+        {
+            "question": "Nikah Ke Mouqe Par Dulha Aur Dulhan Ko Tohfa (Gift) Dena Jaaiz hai..??",
+            "optionA": "Jaiz Nahi",
+            "optionB": "Jaiz Hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "jab bhee paigambar (shly allh ʿlyh wslm) dvaara paarit (meree maan um-sulem) vah usake saath pravesh karatee thee aur usaka abhivaadan karatee thee. anas ne aage kaha: ek baar jab paigambar (shly allh ʿlyh wslm) zainab ke saath apanee shaadee ke dauraan doolha banate hain, to um sulemaan ne mujhase kaha. \"aaie ham allaah ke rasool (\") ko ek upahaar den. \"mainne usase kaha,\" aisa karo. \"to usane khajoor, makkhan aur sookhe dahee se bane haisa (ek sveet dish) taiyaar kiya aur usane use mere paas bheja. main use apane paas le gaya aur usane kaha, \"ise neeche rakho,\" aur mujhe kuchh aise logon ko bulaane ka aadesh diya jinhen usane naam diya tha, aur jise bhee main milane ke lie aamantrit karata hoon. mainne vahee kiya jo usane mujhe karane ka aadesh diya, aur jab main vaapas lauta, to mainne paaya. ghar mein logon ke saath bheed thee aur paigambar (paioplai) ne apana haath haisa par rakha aur kaha ki jo kuchh bhee allaah chaahata hai (use kahana hai) usake baad usane das logon ko khaane ke lie baichon mein bulaaya, aur usane unase kaha , \"allaah ke naam ka ullekh karen, aur pratyek vyakti ko usake nikatatam pakavaan khaane chaahie.\" jab un sabhee ne apana bhojan samaapt kar liya, to unamen se kuchh bache aur kuchh vaheen rah gae, jin par mujhe kuchh nahin laga. y. tab paigambar (shly allh ʿlyh wslm) nivaas sthaanon (apanee patniyon ke) kee or nikal gae aur main bhee, unake peechhe-peechhe gaya aur unase kaha ki ve log vahaan se chale gae the. phir vah vaapas laut aae aur apane nivaas sthaan mein pravesh kiya aur parde gir gae. main (usake) nivaas sthaan par tha, aur vah chhand ka paath kar raha tha: - he tum jo maanate ho! paigambar ke ghar mein pravesh karo jab tak ki chhuttee aapako bhojan ke lie nahin dee jaatee, (aur tab) nahin (jitanee jaldee ho sake) kya isakee taiyaaree ke lie. lekin jab aapako aamantrit kiya jaata hai, to pravesh karen, aur jab aap apana bhojan le chuke hon, to bina baat kie baithen. , lekin allaah sach kahane se nahin sharma raha hai\r\n\r\nSahih Bukhari 5163"
+        },
+        {
+            "question": "Kya Ladki Walo Ka Nikah Me Aaye Mehmano Ko Apne Istetat (affordable) Ke Mutabiq Khana Khilana Jaiz Hai..??",
+            "optionA": "Jaiz nahi",
+            "optionB": "Jaiz hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "-"
+        },
+        {
+            "question": "Kya Ladke Wale Ladki Ke Ghar Walo se Nikah Ki Dawat Ya Shadi Mahel Ka Mutalba (Demand) Kar Sakte Hain.? Kya ye Jaiz hai..?",
+            "optionA": "Ji. Jaiz hai",
+            "optionB": "Jaiz nahi",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "-"
+        },
+        {
+            "question": "Pahli Mulaqat Ke Waqt Shohar ka Apni Biwi Ke Sar Par Hath Rakh Kar Barkat Ki Dua Karna Kaisa Hai..??",
+            "optionA": "Jaiz hai",
+            "optionB": "Jaiz nahi",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionA",
+            "feedback": "paigambar (hait) ne kaha: yadi aap mein se koee ek mahila se shaadee karata hai ya ek gulaam khareedata hai, to use kahana chaahie: \"he allaah, main tumase usake lie achchhaee maangata hoon, aur jis vaade mein tumane use diya hai, main usakee sharan leta hoon; us mein buraee, aur svabhaav mein tumane use diya hai. \"jab vah ek oont khareedata hai, to use apane koobad ke oopar pakadana chaahie aur usee tarah kee baat kahanee chaahie.\"\r\n\r\naboo daood ne kaha: aboo saeed ne apane sanskaran mein nimnalikhit shabd jode: use tab apane poorvajanm kee katha ko pakadana chaahie aur ek mahila ya daas ke maamale mein aasheervaad ke lie praarthana karanee chaahie\r\n\r\nAbu-Dawood 2160"
+        },
+        {
+            "question": "Nabi ﷺ Ne Farmaya Waleema Zaroor Kiya karo Agarche Ek Bakri Se Hi kyun Na Ho. Kya ye Baat Sahih hai..??",
+            "optionA": "Sahih Hai",
+            "optionB": "Ghalat Hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionA",
+            "feedback": "jab `abdur-rahamaan bin` auph ne ek ansaaree mahila se shaadee kee, to paigambar (ur) ne usase poochha, \"aapane use kitana mahar diya?\" abdur-rahamaan ne kaha, \"det ston ke vajan ke baraabar sona. anas.\" joda: jab ve (yaanee paigambar (whain) aur unake saathee) madeena pahunche, imigrents ansaar ke gharon par ruke. `abdur-rahamaan bin` auph sa`d bin ar-rabee ke ghar par ruke. sa`d ne kaha `abdur-rahamaan,\" main apanee sampatti aapake saath baantoonga aur baantoonga aur apanee do patniyon mein se ek ko aap ko doonga. \"` abdur-rahamaan ne kaha, \"allaah tumhen aur tumhaaree patniyon ko sampatti pradaan kare (mujhe isakee koee zaroorat nahin hai) vah; lekin krpaya mujhe baajaar ka raasta dikhao). \"to` abdur-rahamaan baajaar gae aur vahaan kuchh sookhe dahee aur makkhan ka laabh praapt kiya aur shaadee kar lee (ansaaree mahila). paigambar (shly allh ʿlyh wslm) ne kaha. use, \"ek bhoj do, bhale hee ek bhed ke saath do.\"\r\n\r\nSahih Bukhari 5167"
+        },
+        {
+            "question": "Sabse Bura Waleema Kounsa hai..??",
+            "optionA": "Jisme Rishtedar Na ho",
+            "optionB": "Jisme Aapne Musalman Bhai Na Ho",
+            "optionC": "Jisme Gareeb na ho",
+            "optionD": "null",
+            "answer": "optionC",
+            "feedback": "Waleema ka wo khaana budtareen khaana hai jis me sirf maaldar ko is ki taraf dawat di jaaye aur gareebo ko na khilaya jaaye aur jis ne waleem ki dawat qabool karne se inkar kiya us ne allah aur is ke rasool ki na farmaani ki\r\n\r\nSahih Bukhari 5177"
+        }
+    ]
+}
