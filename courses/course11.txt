@@ -1,0 +1,94 @@
+{
+"Course 11": [
+        {
+            "question": "Nabi ka ﷺ Jism Mubarak Kaisa Tha..?",
+            "optionA": "Patle The",
+            "optionB": "Thoda Mote The",
+            "optionC": "Na zyada Mote, Na Duble Patle",
+            "optionD": "Zyada Patle The",
+            "answer": "optionC",
+            "feedback": "-"
+        },
+        {
+            "question": "Kya Nabi ﷺ Nabi Banne se Pehle Sare Buriyon Se Door The..?",
+            "optionA": "Nahi",
+            "optionB": "Ji. Door The",
+            "optionC": "Allahu Alam.",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "-"
+        },
+        {
+            "question": "Makka Mein Log Nabi ﷺ ko Dekh kar kya Pukarte The..?",
+            "optionA": "Khubsurat aur Ameen",
+            "optionB": "Sirf Ameen karke pukarte the",
+            "optionC": "Sadiq karke pukarte the",
+            "optionD": "Ameen aur Sadiq Karke Pukarte The",
+            "answer": "optionD",
+            "feedback": "-"
+        },
+        {
+            "question": "Walidah ki wafat ke Wakt Nabi ki Umr kya thi..?",
+            "optionA": "7 saal",
+            "optionB": "7 saal",
+            "optionC": "6 Saal",
+            "optionD": "3 Saal",
+            "answer": "optionC",
+            "feedback": "-"
+        },
+        {
+            "question": "Nabi ﷺ Ka Seena kisne chak Diya..?",
+            "optionA": "Israfil",
+            "optionB": "Mikail",
+            "optionC": "Jibraeel",
+            "optionD": "null",
+            "answer": "optionC",
+            "feedback": "-"
+        },
+        {
+            "question": "Fatimah R.a Ke Aulad Kitne The..?",
+            "optionA": "5",
+            "optionB": "2",
+            "optionC": "4",
+            "optionD": "3",
+            "answer": "optionC",
+            "feedback": "-"
+        },
+        {
+            "question": "Nabi ﷺ Ke Aulad Mein se Sabse Pehle Kinki Paidish huyi Thi..?",
+            "optionA": "Ibrahim",
+            "optionB": "Abdullah",
+            "optionC": "Yusaf",
+            "optionD": "Qasim",
+            "answer": "optionD",
+            "feedback": "-"
+        },
+        {
+            "question": "Niche diye Gaye Options Mein Kounsa Nabi Ke \"Beta\" nahi The..?",
+            "optionA": "Qasim",
+            "optionB": "Hamza",
+            "optionC": "Abdullah",
+            "optionD": "Ibrahim",
+            "answer": "optionB",
+            "feedback": "-"
+        },
+        {
+            "question": "Nabi ﷺ Ki Aulad Ki Ta'daad Kitne hai..?",
+            "optionA": "Saat - 3 Betiyan aur 3 bete",
+            "optionB": "8 - 3 Bete aur 5 Betiyan",
+            "optionC": "7 - 3 Bete aur 4 Batiyan",
+            "optionD": "10 - 5 Bete aur 5 Betian",
+            "answer": "optionC",
+            "feedback": "-"
+        },
+        {
+            "question": "Nabi ﷺ Ki Kounsa Biwi Ko Sabse Badi Faqeeh Aur Aalimah Hai..?",
+            "optionA": "Khadeeja R.a",
+            "optionB": "Zaibab R.a",
+            "optionC": "Ayesha R.a",
+            "optionD": "Hafsa R.a",
+            "answer": "optionC",
+            "feedback": "-"
+        }
+    ]
+}
