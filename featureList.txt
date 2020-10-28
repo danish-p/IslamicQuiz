@@ -41,6 +41,13 @@
             "featureVisibility": "yes",
             "updatedVersion":"8",
             "showUpdateFlag" : "14062020_001"
+        },
+         {
+            "featureName": "Dua",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuranIcon.png",
+            "featureVisibility": "no",
+            "updatedVersion":"8",
+            "showUpdateFlag" : "14062020_001"
         }
     ]
 }
