@@ -1,0 +1,13 @@
+{
+"duaList":[
+{
+"urduDescription":"",
+"englishDescription":"",
+"hindiDescription":"",
+"arabic":"",
+"urduMeaning":"",
+"englishMeaning":"",
+"hindiMeaning":""
+}
+]
+}
